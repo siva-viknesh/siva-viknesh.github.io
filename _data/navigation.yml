@@ -14,14 +14,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Talks"
+  - title: "Visualizations"
     url: /talks/
         
   - title: "Pictures"
     url: /images/
     
-  - title: "Visualizations"
-    url: /_visual/
+  #- title: "Visualizations"
+  # url: /_visual/
     
   #- title: "Guide"
   #  url: /markdown/
