@@ -9,7 +9,8 @@ location: "Kanpur, India"
 ---
 
 **Instructor**: Prof. Kamal Poddar
-This course covered National Instruments (NI) LABVIEW programming, focusing on the integration of sensors and data acquisition systems for various measurement applications. 
+
+This course covered National Instruments (NI) LABVIEW programming, focusing on the integration of sensors and data acquisition systems for various measurement applications. The topics addressed include:
 
 ### Force Measurement
 An exploration of methods and techniques for accurately measuring force using sensors.
