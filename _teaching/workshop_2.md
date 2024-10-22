@@ -2,7 +2,7 @@
 title: "Utah Exploring Engineering Camp"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/workshop_1
+permalink: /teaching/workshop_2
 venue: "Mechanical Engineering, University of Utah"
 date: July 2023
 location: "Salt Lake City, Utah"
