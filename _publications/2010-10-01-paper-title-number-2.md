@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Active control of separated flow on a symmetric airfoil by pitching oscillation"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-08-01-active-control-of-separated-flow
+excerpt: '<p style="text-align: justify;">Experiments are conducted on the control of massively separated flow over a symmetric airfoil by imposing pitching oscillation at smaller amplitudes. Two symmetric airfoils of different thickness to chord ratios are considered to account for the effect of thickness and stall-type on flow control. Instantaneous aerodynamic forces and moments are calculated by integrating surface and wake pressure distributions. Time-resolved particle image velocimetry and unsteady pressure measurements are carried out simultaneously to characterize the flow field over the pitching airfoil. The results presented here provide insight into flow dynamics and the dynamic response of a stalled airfoil to pitching oscillation at different reduced frequencies.</p>'
+date: 2021-08-01
+venue: 'Physics of Fluids'
+volume: '33'
+number: '8'
+pages: '087115'
+doi: '10.1063/5.0060782'
+paperurl: 'https://doi.org/10.1063/5.0060782'
+citation: 'Siva Viknesh, S., & Poddar, K. (2021). &quot;Active control of separated flow on a symmetric airfoil by pitching oscillation.&quot; <i>Physics of Fluids</i>, 33(8), 087115.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
