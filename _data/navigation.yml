@@ -6,19 +6,19 @@
 
 main:
   - title: "CV"
-    url: /publications/
+    url: /cv/
 
   - title: "Research"
-    url: /talks/    
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Talks"
-    url: /portfolio/
+    url: /talks/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Pictures"
+    url: /year-archive/
     
   #- title: "CV"
   #  url: /cv/
