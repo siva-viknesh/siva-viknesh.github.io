@@ -1,5 +1,5 @@
 ---
-title: "ME EN 2450-011: Numerical Methods for Engineering Systems"
+title: "ME EN 2450: Numerical Methods for Engineering Systems"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/teaching_3
@@ -10,7 +10,7 @@ location: "Salt Lake City, Utah"
 
 **Instructor**: Dr. James Rob Stoll
 
-This course focuses on the application of fundamental numerical methods to solve problems related to the dynamics, modeling, design, and testing of engineering systems. The topics covered include:
+This course focuses on the application of fundamental numerical methods to solve problems related to the dynamics, modeling, design, and testing of engineering system methods. The topics covered include:
 
 ### Root Finding, Interpolation, and Function Approximation
 An examination of techniques for finding roots of equations, interpolating data points, and approximating functions.
