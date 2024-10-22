@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/teaching_3
 venue: "Mechanical Engineering, University of Utah"
-date: January 2019
+date: January 2024
 location: "Salt Lake City, Utah"
 ---
 
-**Instructor**: Dr. Rob Stoll
+**Instructor**: Dr. James Rob Stoll
 
 This course focuses on the application of fundamental numerical methods to solve problems related to the dynamics, modeling, design, and testing of engineering systems. The topics covered include:
 
