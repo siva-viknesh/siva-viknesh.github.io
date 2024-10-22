@@ -18,10 +18,10 @@ main:
     url: /talks/
         
   - title: "Pictures"
-    url: /year-archive/
+    url: /images/
     
   - title: "Visualizations"
-    url: /cv/
+    url: /_visual/
     
   #- title: "Guide"
   #  url: /markdown/
