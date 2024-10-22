@@ -2,7 +2,7 @@
 title: "AE 698A: Intro to Virtual Instrumentation"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/teaching_3
+permalink: /teaching/teaching_0
 venue: "Aerospace Engineering, IIT Kanpur"
 date: January 2019
 location: "Kanpur, India"
