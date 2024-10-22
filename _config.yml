@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Mechanical Engineering"
   location         : "Salt Lake City, Utah, USA"
-  employer         : "University of Utah"
+  employer         : "SCI Institute, University of Utah"
   uri              : "https://www.sci.utah.edu/people/siva.viknesh.html"
   email            : "siva.viknesh@sci.utah.edu, sivaviknesh14@gmail.com" 
 
@@ -49,7 +49,7 @@ author:
 
   # Social media
   bluesky          : # Username # Replace this with you Bluesky username
-  facebook         : "SivaViknesh.S"
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
