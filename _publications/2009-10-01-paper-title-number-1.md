@@ -1,13 +1,16 @@
 ---
-title: "Paper Title Number 4"
+title: "Grid sensitivity and role of error in computing a lid-driven cavity problem"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2019-01-01-grid-sensitivity-and-role-of-error
+excerpt: 'This paper explores the grid sensitivity and the impact of error in a lid-driven cavity problem.'
+date: 2019-01-01
+venue: 'Phys. Rev. E'
+volume: '99'
+issue: '1'
+pages: '013305'
+numpages: '14'
+doi: '10.1103/PhysRevE.99.013305'
+paperurl: 'https://link.aps.org/doi/10.1103/PhysRevE.99.013305'
+citation: 'Suman, V. K., Viknesh S., Siva, Tekriwal, M. K., Bhaumik, S., & Sengupta, T. K. (2019). &quot;Grid sensitivity and role of error in computing a lid-driven cavity problem.&quot; <i>Phys. Rev. E</i>, 99(1), 013305.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
