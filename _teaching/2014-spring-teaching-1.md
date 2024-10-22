@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "AE 698A: Intro to Virtual Instrumentation"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate Course"
+permalink: /teaching/2020-spring-teaching-1
+venue: "Aerospace Engineering, IIT Kanpur"
+date: January 2020
+location: "Kanpur, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course covered National Instruments (NI) LABVIEW programming, focusing on the integration of sensors and data acquisition systems for various measurement applications. The topics addressed include:
 
-Heading 1
-======
+### Force Measurement
+An exploration of methods and techniques for accurately measuring force using sensors.
 
-Heading 2
-======
+### Pressure Measurements
+An examination of pressure measurement systems and their integration into LABVIEW for real-time data acquisition.
 
-Heading 3
-======
+### Strain Gauge Measurements
+A detailed study of strain gauge technology and its applications in measuring deformation.
+
+The course was designed for Master’s and Ph.D. students, providing hands-on experience with instrumentation and data acquisition systems.
