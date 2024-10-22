@@ -11,7 +11,7 @@ redirect_from:
 ![Illustration of dynamical system analysis](/images/image_to_text_vis.png){: .align-right width="300px"}
 👨🏻‍💻 I am a PhD candidate in Mechanical Engineering at the University of Utah.
 
-🔬 My research interests lie in system identification, dynamical systems, and wildfire simulations. I focus on enhancing models of transient wind-driven wildfire propagation.
+🔬 My research interest revolves around Scientific Machine Learning, Inverse Problems, Wildfire Dynamics, Hemodynamics, and Unsteady Aerodynamics. 
 
 📚 Currently, my work involves the SGraD-SINDy method for identifying sparse dynamics in high-dimensional systems.
 
