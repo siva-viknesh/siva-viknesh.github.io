@@ -1,7 +1,7 @@
 ---
 title: "Yosemite National Park"
-date: 2023-01-15
-image: "https://example.com/images/mountains.jpg"
+date: 2024-09-01
+image: "https://github.com/siva-viknesh/siva-viknesh.github.io/blob/master/images/pic_1.jpg"
 ---
 
 I had an amazing time hiking in the mountains. The views were breathtaking!
