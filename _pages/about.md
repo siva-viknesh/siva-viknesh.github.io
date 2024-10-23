@@ -11,38 +11,39 @@ redirect_from:
 ![Illustration of dynamical system analysis](https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_dyna.webp){: .align-right width="50%"}
 
 <div style="text-align: justify;">
-👨🏻‍💻 I am currently pursuing a PhD in the Department of Mechanical Engineering and the SCI Institute at the University of Utah, working with of Dr. Amirhossein Arzani.<br><br>
-🔬 My research interests revolve around Scientific Machine Learning, Inverse Problems, Wildfire Dynamics, Hemodynamics, and Unsteady Aerodynamics.<br><br>
-📚 I have a strong focus on fluid flow problems, particularly in Unsteady Aerodynamics, using computational methods, with experience in experimental methods during my MS program.<br><br>
+👨🏻‍🎓 <strong>PhD Candidate</strong> in the Department of Mechanical Engineering and the SCI Institute at the University of Utah, working with Dr. Amirhossein Arzani.<br><br>
+
+🔬 <strong>Research Interests:</strong> My research revolves around <em>Scientific Machine Learning</em>, <em>Inverse Problems</em>, <em>Wildfire Dynamics</em>, <em>Hemodynamics</em>, and <em>Unsteady Aerodynamics</em>.<br><br>
+
+🌊 <strong>Fluid Mechanics:</strong> I have a strong inclination towards Unsteady Fluid Mechanics, delving into areas such as, cardiovascular flow, wildfire dynamics, and unsteady aerodynamics. It also involves developing computational methods and integrating Machine Learning methodologies to solve these complex problems.<br><br>
+
+🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering, specializing in Aerodynamics, from IIT Kanpur, India. I had the privilege of working in the HPCL Lab with Dr. Tapan K. Sengupta and the LSA Lab with Dr. Kamal Poddar, where I focused on Computational Fluid Mechanics and Wind Tunnel Measurements. My Bachelor's degree in Aeronautical Engineering from Anna University, Tamil Nadu, India, sparked my passion for Aerodynamics and solving PDEs.<br><br>
 </div>
 
-📽️ I am also passionate about mentoring others in the areas of mechanical engineering and research methodologies.<br><br>
-
-# Selected Experience
 
 ## 🔬 Academic Research
-- **[Wildfire Dynamics](https://github.com/siva-viknesh/Wildland_Fire_Dynamics):** 
+- 🔥 **[Wildfire Dynamics](https://github.com/siva-viknesh/Wildland_Fire_Dynamics):** 
   <div style="text-align: justify;">
   Discovered two new non-dimensional numbers governing convection-diffusion-reaction combustion models for the first time. Scaling analysis predicts future fire propagation without reliance on simulations (paper submitted).
   </div>
 
-- **[Interpretable Machine Learning](https://github.com/siva-viknesh/ADAM-SINDy):**
+- 🤖 **[Interpretable Machine Learning](https://github.com/siva-viknesh/ADAM-SINDy):**
   <div style="text-align: justify;">
   Developed the **ADAM-SINDy** framework for system identification of non-linear dynamical systems, avoiding prior system knowledge (paper submitted).
   </div>
 
-- **[Pitching Airfoil](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric):** 
+- 🛩️ **[Pitching Airfoil](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric):** 
   <div style="text-align: justify;">
   Identified upstream-convecting vortices (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV experiments.
   </div>
 
-- **[Flow Instabilites](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305):** 
+- 🌪️ **[Flow Instabilities](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305):** 
   <div style="text-align: justify;">
   Sensitivity of multiple Hopf bifurcations and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
   </div>
 
 ## 🖥️ Software and Simulations
-I have developed and optimized several programs and simulations related to scientific machine learning and fluid flow problems. Please note that if the links are unavailable or denied, the corresponding papers are still under review.
+I have developed and optimized several programs/solvers related to scientific machine learning and fluid flow problems. Please note that if the links are unavailable or denied, the corresponding papers are still under review.
 
 - **[ADAM-SINDy Methodology](https://github.com/siva-viknesh/ADAM-SINDy)**
 
