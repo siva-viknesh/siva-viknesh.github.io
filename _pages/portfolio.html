@@ -1,14 +1,43 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Enjoy the amazing pictures!"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<div class="portfolio-container">
+  {% assign current_year = "" %}
+  {% assign current_month = "" %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+  {% for post in site.portfolio %}
+    {% assign post_year = post.date | date: "%Y" %}
+    {% assign post_month = post.date | date: "%B" %}
 
+    {% if current_year != post_year %}
+      {% if forloop.first == false %}
+        </div> <!-- Close the row for the previous year -->
+      {% endif %}
+      <h2>{{ post_year }}</h2>
+      <div class="row">
+        {% assign current_year = post_year %}
+      {% endif %}
+
+    {% if current_month != post_month %}
+      <h3>{{ post_month }}</h3>
+      <div class="row month-row">
+        {% assign current_month = post_month %}
+    {% endif %}
+
+    <div class="col">
+      <a href="{{ post.url }}">
+        <img src="{{ post.image }}" alt="{{ post.title }}" />
+        <p>{{ post.title }}</p>
+      </a>
+    </div>
+
+  {% endfor %}
+
+  </div> <!-- Close the last month row -->
+</div> <!-- Close the portfolio container -->
