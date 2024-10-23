@@ -35,7 +35,7 @@ redirect_from:
 
 - **Flow Control in Aerodynamics:** 
   <div style="text-align: justify;">
-  Identified upstream-convecting vortices (vortices moving against the flow direction) on a pitching airfoil using time-resolved PIV experiments. [Check out the paper here](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric)!
+  Identified upstream-convecting vortices (vortices moving against the flow direction) on a pitching airfoil using time-resolved PIV experiments. [Read the paper here](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric)!
   </div>
 
 - **Fluid Dynamics:** 
@@ -50,40 +50,40 @@ I have developed and optimized several programs and simulations related to scien
 
 - **ADAM-SINDy Methodology:** 
   <div style="text-align: justify;">
-  A machine learning framework for dynamical system identification. [GitHub Repository](https://github.com/siva-viknesh/ADAM-SINDy)
+  A machine learning framework for dynamical system identification. [View on GitHub](https://github.com/siva-viknesh/ADAM-SINDy)
   </div>
 
 - **Wildfire Dynamics Transport Solver:** 
   <div style="text-align: justify;">
-  A solver for modeling wildfire dynamics under varying wind conditions. [GitHub Repository](https://github.com/siva-viknesh/Wildland_Fire_Dynamics)
+  A solver for modeling wildfire dynamics under varying wind conditions. [View on GitHub](https://github.com/siva-viknesh/Wildland_Fire_Dynamics)
   </div>
 
 - **Physics-Informed Neural Networks (PINN):** 
   <div style="text-align: justify;">
-  Framework for inverse boundary condition problems. [GitHub Repository](https://github.com/siva-viknesh/Inverse-BC-PINN-Framework)
+  Framework for inverse boundary condition problems. [View on GitHub](https://github.com/siva-viknesh/Inverse-BC-PINN-Framework)
   </div>
 
 - **Physics-Based CNN for Denoising and Super-Resolution:** 
   <div style="text-align: justify;">
-  A CNN model tailored for fluid mechanics applications. [GitHub Repository](https://github.com/siva-viknesh/Physics-Based_ML/blob/main/Fluid_Mechanics/Physics-based_CNN.ipynb)
+  A CNN model tailored for fluid mechanics applications. [View on GitHub](https://github.com/siva-viknesh/Physics-Based_ML/blob/main/Fluid_Mechanics/Physics-based_CNN.ipynb)
   </div>
 
 - **Spectral Analysis for Numerical Schemes:** 
   <div style="text-align: justify;">
-  Tools for conducting spectral analysis on various numerical methods. [GitHub Repository](https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Spectral_Analysis)
+  Tools for conducting spectral analysis on various numerical methods. [View on GitHub](https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Spectral_Analysis)
   </div>
 
 - **Lid-Driven Cavity Flow Solver:** 
   <div style="text-align: justify;">
-  A finite difference method (FDM) solver for studying fluid dynamics. [GitHub Repository](https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Lid_Driven_Cavity_Flow)
+  A finite difference method (FDM) solver for studying fluid dynamics. [View on GitHub](https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Lid_Driven_Cavity_Flow)
   </div>
 
 - **Flow Instability Solver:** 
   <div style="text-align: justify;">
-  Developed a solver to investigate flow instabilities in fluid systems. [GitHub Repository](https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Fluid_Solvers)
+  Developed a solver to investigate flow instabilities in fluid systems. [View on GitHub](https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Fluid_Solvers)
   </div>
 
 - **Unsteady Force/Pressure/Hot-Wire Measurements:** 
   <div style="text-align: justify;">
-  Tools developed in NI LabView for measuring forces and pressures in unsteady aerodynamics experiments. [GitHub Repository](https://github.com/siva-viknesh/Experiments_Pitching_Airfoil)
+  Tools developed in NI LabView for measuring forces and pressures in unsteady aerodynamics experiments. [View on GitHub](https://github.com/siva-viknesh/Experiments_Pitching_Airfoil)
   </div>
