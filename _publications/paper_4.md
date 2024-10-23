@@ -12,5 +12,5 @@ pages: '-'
 numpages: '31'
 doi: '-'
 paperurl: '-'
-citation: 'Viknesh, S., Tohidi, A., Afghah, F., Stoll, R., Arzani, A. (2024). "Role of flow topology in wind-driven wildfire propagation."'
+citation: 'Viknesh, S., Tohidi, A., Afghah, F., Stoll, R., Arzani, A. (2024)&quot;Role of flow topology in wind-driven wildfire propagation&quot; <i></i>'
 ---
