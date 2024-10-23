@@ -21,7 +21,7 @@ repository               : "siva-viknesh/siva-viknesh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prof_pic.png"
+  avatar           : "profile_pic.jpg"
   name             : "Siva Viknesh"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Mechanical Engineering"
