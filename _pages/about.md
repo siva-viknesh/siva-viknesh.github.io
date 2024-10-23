@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of dynamical system analysis](https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_dyna.webp){: .align-right width="70%"}
+![Illustration of dynamical system analysis](https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_dyna.webp){: .align-right width="50%"}
 👨🏻‍💻 I am a PhD candidate in Mechanical Engineering at the University of Utah.
 
 🔬 My research interest revolves around Scientific Machine Learning, Inverse Problems, Wildfire Dynamics, Hemodynamics, and Unsteady Aerodynamics. 
