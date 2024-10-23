@@ -46,7 +46,7 @@ $type-size-8                : 0.625em;  // ~10px
 $masthead-height            : 70px;
 
 /* Sidebar properties */
-$sidebar-screen-min-width   : 1024px;
+$sidebar-screen-min-width   : 2048px;
 $sidebar-link-max-width     : 250px; /* 250*/
 
 
@@ -132,13 +132,13 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 10px;
-$right-sidebar-width        : 10px;
-$right-sidebar-width-wide   : 10px;
+$right-sidebar-width-narrow : 50px;
+$right-sidebar-width        : 50px;
+$right-sidebar-width-wide   : 50px;
 
 $susy: (
   columns: 12,
-  column-width: 300px, /* 120*/
+  column-width: 120px, /* 120*/
   gutters: 1/4,
   math: fluid,
   output: float,
