@@ -11,9 +11,24 @@ author_profile: true
   {% assign current_year = "" %}
   {% assign current_month = "" %}
 
-  {% for post in site.portfolio %}
-    {% assign post_year = post.date | date: "%Y" %}
-    {% assign post_month = post.date | date: "%B" %}
+  {% assign portfolio_posts = 
+    "[
+      { 'title': 'Trip to the Mountains', 'date': '2023-01-15', 'image': 'https://example.com/images/mountains.jpg' },
+      { 'title': 'Beach Vacation', 'date': '2023-02-10', 'image': 'https://example.com/images/beach.jpg' },
+      { 'title': 'City Exploration', 'date': '2023-03-05', 'image': 'https://example.com/images/city.jpg' },
+      { 'title': 'Countryside Retreat', 'date': '2023-04-20', 'image': 'https://example.com/images/countryside.jpg' },
+      { 'title': 'Winter Wonderland', 'date': '2023-12-01', 'image': 'https://example.com/images/winter.jpg' }
+    ]"
+  | split: ',' %}
+
+  {% for post in portfolio_posts %}
+    {% assign post_data = post | split: '{' %}
+    {% assign title = post_data[1] | split: '}' | first | remove: "'" | split: ':' | last | strip %}
+    {% assign date = post_data[2] | split: '}' | first | remove: "'" | split: ':' | last | strip %}
+    {% assign image = post_data[3] | split: '}' | first | remove: "'" | split: ':' | last | strip %}
+
+    {% assign post_year = date | date: "%Y" %}
+    {% assign post_month = date | date: "%B" %}
 
     {% if current_year != post_year %}
       {% if forloop.first == false %}
@@ -22,22 +37,27 @@ author_profile: true
       <h2>{{ post_year }}</h2>
       <div class="row">
         {% assign current_year = post_year %}
-      {% endif %}
+    {% endif %}
 
     {% if current_month != post_month %}
+      {% if current_month != "" %}
+        </div> <!-- Close the row for the previous month -->
+      {% endif %}
       <h3>{{ post_month }}</h3>
       <div class="row month-row">
         {% assign current_month = post_month %}
     {% endif %}
 
     <div class="col">
-      <a href="{{ post.url }}">
-        <img src="{{ post.image }}" alt="{{ post.title }}" />
-        <p>{{ post.title }}</p>
+      <a href="#">
+        <img src="{{ image }}" alt="{{ title }}" style="width: 100%; height: auto;" />
+        <p>{{ title }}</p>
       </a>
     </div>
 
   {% endfor %}
 
-  </div> <!-- Close the last month row -->
-</div> <!-- Close the portfolio container -->
+  {% if current_month != "" %}
+    </div> <!-- Close the last month row -->
+  {% endif %}
+  </div> <!-- Close the portfolio container -->
