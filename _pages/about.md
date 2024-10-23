@@ -11,23 +11,27 @@ redirect_from:
 ![Illustration of dynamical system analysis](https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_dyna.webp){: .align-right width="50%"}
 
 <div style="text-align: justify;">
-    👨🏻‍💻 I am currently pursuing a PhD in the Department of Mechanical Engineering and the SCI Institute at the University of Utah, under the supervision of Dr. Amirhossein Arzani.<br><br>
-    🔬 My research interests include Scientific Machine Learning, Inverse Problems, Wildfire Dynamics, Hemodynamics, and Unsteady Aerodynamics.<br><br>
-    📚 I have a strong focus on fluid flow problems, particularly in Unsteady Aerodynamics, using computational methods, with experience in experimental methods during my MS program.<br><br>
+    👨🏻‍💻 I am currently pursuing a PhD in the Department of Mechanical Engineering and the SCI Institute at the University of Utah, under the supervision of Dr. Amirhossein Arzani.<br>
+    🔬 My research interests include Scientific Machine Learning, Inverse Problems, Wildfire Dynamics, Hemodynamics, and Unsteady Aerodynamics.<br>
+    📚 I have a strong focus on fluid flow problems, particularly in Unsteady Aerodynamics, using computational methods, with experience in experimental methods during my MS program.<br>
 </div>
 
 <div style="text-align: justify;">
 📽️ I am also passionate about mentoring others in the areas of mechanical engineering and research methodologies.<br><br>
+</div>
 
 # Selected Experience
 
 ## 🔬 Academic Research
+<div style="text-align: justify;">
 - **Wildfire Dynamics:** Discovered two new non-dimensional numbers governing convection-diffusion-reaction models for the first time. Conducted scaling analysis that predicts future fire propagation without reliance on simulations (paper submitted).<br><br>
 - **Interpretable Machine Learning:** Developed the **ADAM-SINDy** framework for system identification of non-linear dynamical systems without prior knowledge (paper submitted).<br><br>
 - **Flow Control in Aerodynamics:** Identified upstream-convecting vortices (vortices moving against the flow direction) on a pitching airfoil using time-resolved PIV experiments. [Check out the paper here](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric)!<br><br>
 - **Fluid Dynamics:** Investigated the sensitivity of multiple Hopf bifurcations and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution. [Read the paper here](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305)!<br><br>
+</div>
 
 ## 🖥️ Software and Simulations
+<div style="text-align: justify;">
 I have developed and optimized several programs and simulations related to scientific machine learning and fluid flow problems. Please note that if the links are unavailable or denied, the corresponding papers are still under review.<br><br>
 
 - **ADAM-SINDy Methodology:** A machine learning framework for dynamical system identification. [GitHub Repository](https://github.com/siva-viknesh/ADAM-SINDy)<br><br>
