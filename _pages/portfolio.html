@@ -5,60 +5,48 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
 <div class="portfolio-container">
-  {% assign current_year = "" %}
-  {% assign current_month = "" %}
 
-  {% assign portfolio_posts = 
-    "[
-      { 'title': 'Trip to the Mountains', 'date': '2023-01-15', 'image': 'https://example.com/images/mountains.jpg' },
-      { 'title': 'Beach Vacation', 'date': '2023-02-10', 'image': 'https://example.com/images/beach.jpg' },
-      { 'title': 'City Exploration', 'date': '2023-03-05', 'image': 'https://example.com/images/city.jpg' },
-      { 'title': 'Countryside Retreat', 'date': '2023-04-20', 'image': 'https://example.com/images/countryside.jpg' },
-      { 'title': 'Winter Wonderland', 'date': '2023-12-01', 'image': 'https://example.com/images/winter.jpg' },
-      { 'title': 'My GitHub Image', 'date': '2024-01-01', 'image': 'https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_1.jpg' }
-    ]"
-  | split: ',' %}
+  <p style="margin-bottom: 0;">
+    <strong>Trip to the Mountains:</strong> A beautiful view from the peak. 
+  </p>
+  <br>
+  <img src="https://example.com/images/mountains.jpg" alt="Trip to the Mountains" width="720">
+  <br><br>
 
-  {% for post in portfolio_posts %}
-    {% assign post_data = post | split: '{' %}
-    {% assign title = post_data[1] | split: '}' | first | remove: "'" | split: ':' | last | strip %}
-    {% assign date = post_data[2] | split: '}' | first | remove: "'" | split: ':' | last | strip %}
-    {% assign image = post_data[3] | split: '}' | first | remove: "'" | split: ':' | last | strip %}
+  <p style="margin-bottom: 0;">
+    <strong>Beach Vacation:</strong> Relaxing by the sea. 
+  </p>
+  <br>
+  <img src="https://example.com/images/beach.jpg" alt="Beach Vacation" width="720">
+  <br><br>
 
-    {% assign post_year = date | date: "%Y" %}
-    {% assign post_month = date | date: "%B" %}
+  <p style="margin-bottom: 0;">
+    <strong>City Exploration:</strong> Discovering the urban landscape. 
+  </p>
+  <br>
+  <img src="https://example.com/images/city.jpg" alt="City Exploration" width="720">
+  <br><br>
 
-    {% if current_year != post_year %}
-      {% if forloop.first == false %}
-        </div> <!-- Close the row for the previous year -->
-      {% endif %}
-      <h2>{{ post_year }}</h2>
-      <div class="row">
-        {% assign current_year = post_year %}
-    {% endif %}
+  <p style="margin-bottom: 0;">
+    <strong>Countryside Retreat:</strong> Enjoying the tranquility of nature. 
+  </p>
+  <br>
+  <img src="https://example.com/images/countryside.jpg" alt="Countryside Retreat" width="720">
+  <br><br>
 
-    {% if current_month != post_month %}
-      {% if current_month != "" %}
-        </div> <!-- Close the row for the previous month -->
-      {% endif %}
-      <h3>{{ post_month }}</h3>
-      <div class="row month-row">
-        {% assign current_month = post_month %}
-    {% endif %}
+  <p style="margin-bottom: 0;">
+    <strong>Winter Wonderland:</strong> Snow-covered landscapes. 
+  </p>
+  <br>
+  <img src="https://example.com/images/winter.jpg" alt="Winter Wonderland" width="720">
+  <br><br>
 
-    <div class="col">
-      <a href="#">
-        <img src="{{ image }}" alt="{{ title }}" style="width: 100%; height: auto;" />
-        <p>{{ title }}</p>
-      </a>
-    </div>
+  <p style="margin-bottom: 0;">
+    <strong>My GitHub Image:</strong> A moment captured during my project. 
+  </p>
+  <br>
+  <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_1.jpg" alt="My GitHub Image" width="720">
+  <br><br>
 
-  {% endfor %}
-
-  {% if current_month != "" %}
-    </div> <!-- Close the last month row -->
-  {% endif %}
-  </div> <!-- Close the portfolio container -->
+</div> <!-- Close the portfolio container -->
