@@ -1,5 +1,5 @@
 ---
-title: "Trip to the Mountains"
+title: "Yosemite National Park"
 date: 2023-01-15
 image: "https://example.com/images/mountains.jpg"
 ---
