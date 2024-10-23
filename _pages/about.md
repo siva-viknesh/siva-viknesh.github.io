@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Siva Viknesh!"
+title: "👋🏼 Hello there, I'm Viknesh!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,13 +13,12 @@ redirect_from:
 <div style="text-align: justify;">
 👨🏻‍🎓 <strong>PhD Candidate</strong> in the Department of Mechanical Engineering and the SCI Institute at the University of Utah, working with Dr. Amirhossein Arzani.<br><br>
 
-🔬 <strong>Research Interests:</strong> My research revolves around <em>Scientific Machine Learning</em>, <em>Inverse Problems</em>, <em>Wildfire Dynamics</em>, <em>Hemodynamics</em>, and <em>Unsteady Aerodynamics</em>.<br><br>
+🔬 <strong>Research Interests:</strong> My research is around <em>Scientific Machine Learning</em>, <em>Inverse Problems</em>, <em>Wildfire Dynamics</em>, <em>Hemodynamics</em>, and <em>Unsteady Aerodynamics</em>.<br><br>
 
-🌊 <strong>Fluid Mechanics:</strong> I have a strong inclination towards Unsteady Fluid Mechanics, delving into areas such as, cardiovascular flow, wildfire dynamics, and unsteady aerodynamics. It also involves developing computational methods and integrating Machine Learning methodologies to solve these complex problems.<br><br>
+🌊 <strong>Fluid Mechanics:</strong> I have a strong inclination towards Unsteady Fluid Mechanics, delving into areas such as cardiovascular flow, wildfire dynamics, and unsteady aerodynamics. It also involves developing computational methods and integrating Machine Learning methodologies to solve these complex problems.<br><br>
 
 🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering, specializing in Aerodynamics, from IIT Kanpur, India. I had the privilege of working in the HPCL Lab with Dr. Tapan K. Sengupta and the LSA Lab with Dr. Kamal Poddar, where I focused on Computational Fluid Mechanics and Wind Tunnel Measurements. My Bachelor's degree in Aeronautical Engineering from Anna University, Tamil Nadu, India, sparked my passion for Aerodynamics and solving PDEs.<br><br>
 </div>
-
 
 ## 🔬 Academic Research
 - 🔥 **[Wildfire Dynamics](https://github.com/siva-viknesh/Wildland_Fire_Dynamics):** 
@@ -29,12 +28,12 @@ redirect_from:
 
 - 🤖 **[Interpretable Machine Learning](https://github.com/siva-viknesh/ADAM-SINDy):**
   <div style="text-align: justify;">
-  Developed the **ADAM-SINDy** framework for system identification of non-linear dynamical systems, avoiding prior system knowledge (paper submitted).
+  Developed the <strong>ADAM-SINDy</strong> framework for system identification of non-linear dynamical systems, avoiding prior system knowledge (paper submitted).
   </div>
 
 - 🛩️ **[Pitching Airfoil](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric):** 
   <div style="text-align: justify;">
-  Identified upstream-convecting vortices (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV experiments.
+  Identified upstream-convecting vortices (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV & Pressure measurements.
   </div>
 
 - 🌪️ **[Flow Instabilities](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305):** 
@@ -43,7 +42,8 @@ redirect_from:
   </div>
 
 ## 🖥️ Software and Simulations
-I have developed and optimized several programs/solvers related to scientific machine learning and fluid flow problems. Please note that if the links are unavailable or denied, the corresponding papers are still under review.
+<div style="text-align: justify;">
+I have developed and optimized several programs/solvers related to scientific machine learning and fluid flow problems. Please note that if the links are unavailable or denied, the corresponding papers are still under review.  </div>
 
 - **[ADAM-SINDy Methodology](https://github.com/siva-viknesh/ADAM-SINDy)**
 
