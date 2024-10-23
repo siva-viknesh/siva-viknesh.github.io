@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div class="justified">
-
 ![Illustration of dynamical system analysis](https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_dyna.webp){: .align-right width="70%"}
 👨🏻‍💻 I am a PhD candidate in Mechanical Engineering at the University of Utah.
 
@@ -29,5 +27,3 @@ I have experience in developing and optimizing simulation environments, particul
 
 ## 👨🏻‍🏫 Teaching and Community Contributions
 As a teaching assistant at the University of Utah, I have been responsible for guiding students through fundamental and advanced topics in mechanical engineering and system dynamics.
-
-</div>
