@@ -1,5 +1,5 @@
 ---
-title: ""Role of flow topology in wind-driven wildfire propagation""
+title: "Role of flow topology in wind-driven wildfire propagation"
 collection: publications
 category: manuscripts
 permalink: /publication/paper_4
