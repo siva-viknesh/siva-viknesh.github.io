@@ -11,9 +11,9 @@ redirect_from:
 ![Illustration of dynamical system analysis](https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_dyna.webp){: .align-right width="50%"}
 
 <div style="text-align: justify;">
-    👨🏻‍💻 I am a PhD candidate in Mechanical Engineering at the University of Utah.  
-    🔬 My research interest revolves around Scientific Machine Learning, Inverse Problems, Wildfire Dynamics, Hemodynamics, and Unsteady Aerodynamics.  
-    📚 Currently, my work involves the SGraD-SINDy method for identifying sparse dynamics in high-dimensional systems.
+    👨🏻‍💻 I am a PhD candidate in Mechanical Engineering at the University of Utah.<br><br>
+    🔬 My research interest revolves around Scientific Machine Learning, Inverse Problems, Wildfire Dynamics, Hemodynamics, and Unsteady Aerodynamics.<br><br>
+    📚 Currently, my work involves the SGraD-SINDy method for identifying sparse dynamics in high-dimensional systems.<br><br>
 </div>
 
 📽️ I am also passionate about guiding others through the intricacies of mechanical engineering and research methodologies.
