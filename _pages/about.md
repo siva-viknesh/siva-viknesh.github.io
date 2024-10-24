@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of dynamical system analysis](https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_dyna1.webp){: .align-right width="50%"}
+![Illustration of dynamical system analysis](https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_dyna1.webp){: .align-right width="70%"}
 
 <div style="text-align: justify;">
 👨🏻‍🎓 <strong>PhD Candidate</strong> in the Department of Mechanical Engineering and the SCI Institute at the University of Utah, working with Dr. Amirhossein Arzani.<br><br>
