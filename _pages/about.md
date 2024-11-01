@@ -11,7 +11,7 @@ redirect_from:
 ![Illustration of dynamical system analysis](https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_dyna3.webp){: width="100%"}
 
 <div style="text-align: justify;">
-👨🏻‍🎓 <strong>PhD Candidate</strong> in the SCI Institute and the Department of Mechanical Engineering at the University of Utah, working with <strong>Dr. Amirhossein Arzani</strong>.<br><br>
+👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>.<br><br>
 
 🔬 <strong>Research Interests:</strong> <em>Scientific Machine Learning</em>, <em>Computational Fluid Mechanics</em>, <em>Inverse Problems</em>, <em>Wildfire Dynamics</em>, <em>Hemodynamics</em>, and <em>Unsteady Aerodynamics</em>.<br><br>
 
