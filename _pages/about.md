@@ -15,9 +15,9 @@ redirect_from:
 
 🔬 <strong>Research Interests:</strong> <em>Scientific Machine Learning</em>, <em>Computational Fluid Mechanics</em>, <em>Inverse Problems</em>, <em>Wildfire Dynamics</em>, <em>Hemodynamics</em>, and <em>Unsteady Aerodynamics</em>.<br><br>
 
-🌊 <strong>Fluid Mechanics:</strong> I have a strong inclination towards Unsteady Fluid Mechanics, delving into areas such as cardiovascular flow, wildfire dynamics, and unsteady aerodynamics. I also focus on developing computational methods and integrating Machine Learning methodologies to solve these complex problems.<br><br>
+🌊 <strong>Fluid Mechanics:</strong> I am strongly inclined towards Fluid Mechanics, delving into areas such as cardiovascular flow, wildfire dynamics, and unsteady aerodynamics. I also focus on developing computational methods and integrating machine learning methodologies to solve these complex problems.<br><br>
 
-🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering, specializing in Aerodynamics, from <strong>IIT Kanpur</strong>, India. I had the privilege of working in the HPCL Lab with <strong>Dr. Tapan K. Sengupta</strong> and the LSA Lab with <strong>Dr. Kamal Poddar</strong>, where I focused on Computational Fluid Mechanics and Wind Tunnel Measurements. My Bachelor's degree in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, sparked my passion for Aerodynamics and solving PDEs.<br><br>
+🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering, specializing in Aerodynamics, from <strong>IIT Kanpur</strong>, India. I had the privilege of working in the HPCL Lab with <strong>Dr. Tapan K. Sengupta</strong> and the LSA Lab with <strong>Dr. Kamal Poddar</strong>, where I focused on both Computational Fluid Mechanics and Wind Tunnel Measurements. My Bachelor's degree in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, sparked my passion for Aerodynamics and solving PDEs.<br><br>
 </div>
 
 ## 🔬 Academic Research
