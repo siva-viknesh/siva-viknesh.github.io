@@ -21,12 +21,12 @@ redirect_from:
 </div>
 
 ## 🔬 Academic Research
-- 🔥 **[Wildfire Dynamics](https://github.com/siva-viknesh/Wildland_Fire_Dynamics):** 
+- 🔥 **[Wildfire Dynamics](https://arxiv.org/abs/2411.04007v1):** 
   <div style="text-align: justify;">
   Discovered two new non-dimensional numbers governing convection-diffusion-reaction combustion models for the first time. Scaling analysis predicts future fire propagation without reliance on simulations (paper submitted).
   </div>
 
-- 🤖 **[Interpretable Machine Learning](https://github.com/siva-viknesh/ADAM-SINDy):**
+- 🤖 **[Interpretable Machine Learning](https://arxiv.org/abs/2410.16528):**
   <div style="text-align: justify;">
   Developed the <strong>ADAM-SINDy</strong> framework for system identification of non-linear dynamical systems, avoiding prior system knowledge (paper submitted).
   </div>
