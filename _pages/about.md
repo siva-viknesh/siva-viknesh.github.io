@@ -28,7 +28,7 @@ redirect_from:
 
 - 🤖 **[Interpretable Machine Learning](https://arxiv.org/abs/2410.16528):**
   <div style="text-align: justify;">
-  Developed the <strong>ADAM-SINDy</strong> framework for system identification of non-linear dynamical systems, avoiding prior system knowledge (paper submitted). Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank">CRUNCH Seminar Talk</a>.
+  Developed the <strong>ADAM-SINDy</strong> framework for system identification of non-linear dynamical systems, avoiding prior system knowledge (paper submitted). Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
   </div>
 
 - 🛩️ **[Pitching Airfoil](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric):** 
