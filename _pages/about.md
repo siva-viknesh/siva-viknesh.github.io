@@ -46,12 +46,30 @@ redirect_from:
 
 <div style="text-align: justify;">
   <ul>
-    <li><strong>Formulation of Solver Templates:</strong> Developed a Finite Volume Method (FVM) solver template tailored for Multiple Reference Frame (MRF) Propeller simulations, achieving a significant validation error reduction of 30%.</li>
-    <li><strong>Aerodynamic Performance Evaluation:</strong> Conducted comprehensive CFD simulations of full-scale 3D electric air vehicle models, incorporating MRF zones to evaluate aerodynamic performance and static stability.</li>
-    <li><strong>Dynamic Stability Analysis:</strong> Performed unsteady Reynolds-Averaged Navier–Stokes (RANS) simulations to compute dynamic stability derivatives for air vehicles. Simulations mimicked pitching, plunging, and flapping motions within a non-inertial reference frame.</li>
-    <li><strong>Mesh Optimization:</strong> Optimized grid resolution for full-scale 3D models using flow physics and Adaptive Mesh Refinement (AMR) techniques.</li>
-    <li><strong>Custom UDF Development:</strong> Designed User-Defined Functions (UDFs) to simulate rotor effects through an actuating disk model, simultaneously imposing pressure jumps and tangential/radial velocity profiles across specified areas and time intervals.</li>
-    <li><strong>Control Effectiveness Evaluation:</strong> Executed CFD simulations to assess control effectiveness for components such as rudders, ailerons, and elevators in full-scale 3D models.</li>
+    <li>
+      <strong>Formulation of Solver Templates:</strong><br>
+      Developed a Finite Volume Method (FVM) solver template tailored for Multiple Reference Frame (MRF) Propeller simulations, achieving a significant validation error reduction of 30%.
+    </li>
+    <li>
+      <strong>Aerodynamic Performance Evaluation:</strong><br>
+      Conducted comprehensive CFD simulations of full-scale 3D electric air vehicle models, incorporating MRF zones to evaluate aerodynamic performance and static stability.
+    </li>
+    <li>
+      <strong>Dynamic Stability Analysis:</strong><br>
+      Performed unsteady Reynolds-Averaged Navier–Stokes (RANS) simulations to compute dynamic stability derivatives for air vehicles. Simulations mimicked pitching, plunging, and flapping motions within a non-inertial reference frame.
+    </li>
+    <li>
+      <strong>Mesh Optimization:</strong><br>
+      Optimized grid resolution for full-scale 3D models using flow physics and Adaptive Mesh Refinement (AMR) techniques.
+    </li>
+    <li>
+      <strong>Custom UDF Development:</strong><br>
+      Designed User-Defined Functions (UDFs) to simulate rotor effects through an actuating disk model, simultaneously imposing pressure jumps and tangential/radial velocity profiles across specified areas and time intervals.
+    </li>
+    <li>
+      <strong>Control Effectiveness Evaluation:</strong><br>
+      Executed CFD simulations to assess control effectiveness for components such as rudders, ailerons, and elevators in full-scale 3D models.
+    </li>
   </ul>
 </div>
 
