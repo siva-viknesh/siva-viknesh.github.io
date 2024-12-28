@@ -40,6 +40,21 @@ redirect_from:
   <div style="text-align: justify;">
   Sensitivity of multiple Hopf bifurcations and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
   </div>
+Here’s how the section will look when incorporated into your page: 
+
+---
+
+## 🏭 Industrial Experience
+
+<div style="text-align: justify;">
+  
+- **Formulation of Solver Templates:** Developed a Finite Volume Method (FVM) solver template tailored for Multiple Reference Frame (MRF) Propeller simulations, achieving a significant validation error reduction of 30%.
+- **Aerodynamic Performance Evaluation:** Conducted comprehensive CFD simulations of full-scale 3D electric air vehicle models, incorporating MRF zones to evaluate aerodynamic performance and static stability.
+- **Dynamic Stability Analysis:** Performed unsteady Reynolds-Averaged Navier–Stokes (RANS) simulations to compute dynamic stability derivatives for air vehicles. Simulations mimicked pitching, plunging, and flapping motions within a non-inertial reference frame.
+- **Mesh Optimization:** Optimized grid resolution for full-scale 3D models using flow physics and Adaptive Mesh Refinement (AMR) techniques.
+- **Custom UDF Development:** Designed User-Defined Functions (UDFs) to simulate rotor effects through an actuating disk model, simultaneously imposing pressure jumps and tangential/radial velocity profiles across specified areas and time intervals.
+- **Control Effectiveness Evaluation:** Executed CFD simulations to assess control effectiveness for components such as rudders, ailerons, and elevators in full-scale 3D models.
+</div>
 
 ## 🖥️ Software and Simulations
 <div style="text-align: justify;">
