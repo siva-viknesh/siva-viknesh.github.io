@@ -40,9 +40,6 @@ redirect_from:
   <div style="text-align: justify;">
   Sensitivity of multiple Hopf bifurcations and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
   </div>
-Here’s how the section will look when incorporated into your page: 
-
----
 
 ## 🏭 Industrial Experience
 
