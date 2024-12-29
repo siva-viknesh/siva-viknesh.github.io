@@ -48,27 +48,27 @@ redirect_from:
   <ul>
     <li>
       <strong>Formulation of Solver Templates:</strong><br>
-      Developed a Finite Volume Method (FVM) solver template tailored for Multiple Reference Frame (MRF) Propeller simulations, achieving a significant validation error reduction of 30%.
+      &nbsp;&nbsp;&nbsp;&nbsp;Developed a Finite Volume Method (FVM) solver template tailored for <strong>Multiple Reference Frame (MRF) </strong> Propeller simulations, achieving a significant validation error reduction of 30%.
     </li>
     <li>
       <strong>Aerodynamic Performance Evaluation:</strong><br>
-      Conducted comprehensive CFD simulations of full-scale 3D electric air vehicle models, incorporating MRF zones to evaluate aerodynamic performance and static stability.
+      &nbsp;&nbsp;&nbsp;&nbsp;Conducted comprehensive CFD simulations of full-scale 3D electric air vehicle models, incorporating MRF zones to evaluate aerodynamic performance and static stability.
     </li>
     <li>
       <strong>Dynamic Stability Analysis:</strong><br>
-      Performed unsteady Reynolds-Averaged Navier–Stokes (RANS) simulations to compute dynamic stability derivatives for air vehicles. Simulations mimicked pitching, plunging, and flapping motions within a non-inertial reference frame.
+      &nbsp;&nbsp;&nbsp;&nbsp;Performed Unsteady Reynolds-Averaged Navier–Stokes (RANS) simulations to compute <strong>dynamic stability derivatives</strong> for air vehicles. Simulations mimicked pitching, plunging, and flapping motions within a non-inertial reference frame.
     </li>
     <li>
       <strong>Mesh Optimization:</strong><br>
-      Optimized grid resolution for full-scale 3D models using flow physics and Adaptive Mesh Refinement (AMR) techniques.
+      &nbsp;&nbsp;&nbsp;&nbsp;Optimized grid resolution for full-scale 3D models using flow physics; <strong>Adaptive Mesh Refinement (AMR) </strong>strong> techniques.
     </li>
     <li>
       <strong>Custom UDF Development:</strong><br>
-      Designed User-Defined Functions (UDFs) to simulate rotor effects through an actuating disk model, simultaneously imposing pressure jumps and tangential/radial velocity profiles across specified areas and time intervals.
+      &nbsp;&nbsp;&nbsp;&nbsp; Developed User-Defined Functions(UDFs) to mirror rotor effects through an actuating disk model, simultaneously imposing pressure jumps and tangential/radial velocity profiles across specified areas and time intervals.
     </li>
     <li>
       <strong>Control Effectiveness Evaluation:</strong><br>
-      Executed CFD simulations to assess control effectiveness for components such as rudders, ailerons, and elevators in full-scale 3D models.
+      &nbsp;&nbsp;&nbsp;&nbsp; CFD simulations to assess control effectiveness for components such as rudders, ailerons, and elevators in full-scale 3D models.
     </li>
   </ul>
 </div>
