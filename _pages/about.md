@@ -60,7 +60,7 @@ redirect_from:
     </li>
     <li>
       <strong>Mesh Optimization:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;Optimized grid resolution for full-scale 3D models using flow physics; <strong>Adaptive Mesh Refinement (AMR) </strong>strong> techniques.
+      &nbsp;&nbsp;&nbsp;&nbsp;Optimized grid resolution for full-scale 3D models using flow physics; <strong>Adaptive Mesh Refinement (AMR) </strong> techniques.
     </li>
     <li>
       <strong>Custom UDF Development:</strong><br>
