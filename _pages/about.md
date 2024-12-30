@@ -47,31 +47,32 @@ redirect_from:
 <div style="text-align: justify;">
   <ul>
     <li>
-      <strong>Formulation of Solver Templates:</strong><br>
+      🛠️ <strong>Formulation of Solver Templates:</strong><br>
       &nbsp;&nbsp;&nbsp;&nbsp;Developed a Finite Volume Method (FVM) solver template tailored for <strong>Multiple Reference Frame (MRF) </strong> Propeller simulations, achieving a significant validation error reduction of 30%.
     </li>
     <li>
-      <strong>Aerodynamic Performance Evaluation:</strong><br>
+      ✈️ <strong>Aerodynamic Performance Evaluation:</strong><br>
       &nbsp;&nbsp;&nbsp;&nbsp;Conducted comprehensive CFD simulations of full-scale 3D electric air vehicle models, incorporating MRF zones to evaluate aerodynamic performance and static stability.
     </li>
     <li>
-      <strong>Dynamic Stability Analysis:</strong><br>
+      📈 <strong>Dynamic Stability Analysis:</strong><br>
       &nbsp;&nbsp;&nbsp;&nbsp;Performed Unsteady Reynolds-Averaged Navier–Stokes (RANS) simulations to compute <strong>dynamic stability derivatives</strong> for air vehicles. Simulations mimicked pitching, plunging, and flapping motions within a non-inertial reference frame.
     </li>
     <li>
-      <strong>Mesh Optimization:</strong><br>
+      🗺️ <strong>Mesh Optimization:</strong><br>
       &nbsp;&nbsp;&nbsp;&nbsp;Optimized grid resolution for full-scale 3D models using flow physics; <strong>Adaptive Mesh Refinement (AMR) </strong> techniques.
     </li>
     <li>
-      <strong>Custom UDF Development:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; Developed User-Defined Functions(UDFs) to mirror rotor effects through an actuating disk model, simultaneously imposing pressure jumps and tangential/radial velocity profiles across specified areas and time intervals.
+      🖥️ <strong>Custom UDF Development:</strong><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;Developed User-Defined Functions(UDFs) to mirror rotor effects through an actuating disk model, simultaneously imposing pressure jumps and tangential/radial velocity profiles across specified areas and time intervals.
     </li>
     <li>
-      <strong>Control Effectiveness Evaluation:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp; CFD simulations to assess control effectiveness for components such as rudders, ailerons, and elevators in full-scale 3D models.
+      🎛️ <strong>Control Effectiveness Evaluation:</strong><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;CFD simulations to assess control effectiveness for components such as rudders, ailerons, and elevators in full-scale 3D models.
     </li>
   </ul>
 </div>
+
 
 
 ## 🖥️ Software and Simulations
