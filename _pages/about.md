@@ -13,7 +13,7 @@ redirect_from:
 <div style="text-align: justify;">
 👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>.<br><br>
 
-🔬 <strong>Research Interests:</strong> <em>Scientific Machine Learning</em>, <em>Computational Fluid Mechanics</em>, <em>Inverse Problems</em>, <em>Wildfire Dynamics</em>, <em>Hemodynamics</em>, and <em>Unsteady Aerodynamics</em>.<br><br>
+🔬 <strong>Research Interests:</strong> <em>Scientific Machine Learning</em>, <em>Unsteady Aerodynamics</em>,  <em>CFD</em>, <em>Wildfire Dynamics</em>, and <em>Wind Tunnel Measurements</em>.<br><br>
 
 🌊 <strong>Fluid Mechanics:</strong> I am strongly inclined towards Fluid Mechanics, delving into areas such as cardiovascular flow, wildfire dynamics, and unsteady aerodynamics. I also focus on developing computational methods and integrating machine learning methodologies to solve these complex problems.<br><br>
 
