@@ -23,7 +23,7 @@ redirect_from:
 ## 🔬 Academic Research
 - 🔥 **[Wildfire Dynamics](https://arxiv.org/abs/2411.04007v1):** 
   <div style="text-align: justify;">
-  Identified two <strong>new non-dimensional numbers</strong> governing the convection-diffusion-reaction wildfire combustion models for the first time. Scaling analysis predicts future fire propagation without reliance on simulations (paper submitted).
+  Identified two <strong>new non-dimensional numbers</strong> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction (paper submitted).
   </div>
 
 - 🤖 **[Interpretable Machine Learning](https://arxiv.org/abs/2410.16528):**
