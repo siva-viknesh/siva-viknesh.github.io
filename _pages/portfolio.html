@@ -33,7 +33,7 @@ author_profile: true
     <div>
       <p><strong>Dead Horse Point State Park, Utah</strong></p>
       <a href="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/fig_2_2025.jpg" data-lightbox="gallery" data-title="Dead Horse Point State Park, Utah">
-        <div class="img-container" style="max-width:480px;">
+        <div class="img-container" style="max-width:720px;">
           <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/fig_2_2025.jpg" alt="Dead Horse Point State Park">
         </div>
       </a>
@@ -85,7 +85,7 @@ author_profile: true
     <div>
       <p><strong>(Mars & Venus) The Getty Centre Museum, Los Angeles</strong></p>
       <a href="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_17.jpg" data-lightbox="gallery" data-title="The Getty Centre Museum, Los Angeles">
-        <div class="img-container" style="max-width:720px;">
+        <div class="img-container" style="max-width:480px;">
           <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_17.jpg" alt="Getty Centre Museum">
         </div>
       </a>
@@ -238,39 +238,32 @@ author_profile: true
 
 <style>
   .portfolio-container {
-    max-width: 960px;
-    margin: 0 auto;
+    max-width: 1200px;
+    margin: auto;
     padding: 20px;
   }
+
   .row {
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
     margin-bottom: 40px;
   }
-  .row p {
-    flex-basis: 100%;
-    text-align: center;
-    margin-bottom: 15px;
-    font-weight: bold;
-  }
+
   .column {
     flex: 1;
-    max-width: 48%;
+    max-width: 50%;
     padding: 10px;
     box-sizing: border-box;
     text-align: center;
   }
+
   .single-column {
     display: flex;
     justify-content: center;
     margin-bottom: 40px;
   }
-  .single-column p {
-    max-width: 480px;
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 15px;
-  }
+
   .img-container {
     width: 100%;
     max-width: 480px;
@@ -278,12 +271,17 @@ author_profile: true
     overflow: hidden;
     border-radius: 8px;
     background-color: #eee;
-    margin: 0 auto;
   }
+
   .img-container img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
+  }
+
+  p {
+    text-align: center;
+    margin-bottom: 10px;
   }
 </style>
