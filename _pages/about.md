@@ -79,6 +79,10 @@ redirect_from:
 <div style="text-align: justify;">
 I have developed and optimized several programs/solvers related to scientific machine learning and fluid flow problems. Please note that if the links are unavailable or denied, the corresponding papers are still under review.  </div>
 
+- **[Differentiable Autoencoding Neural Operator](https://github.com/siva-viknesh/Differentiable_Autoencoding_Neural_Operator)**
+- 
+- **[Statistical Shape Modeling - DEM Terrains](https://github.com/siva-viknesh/Statistical_Shape_Modeling_DEM)**
+  
 - **[ADAM-SINDy Methodology](https://github.com/siva-viknesh/ADAM-SINDy)**
 
 - **[Wildfire Dynamics Transport Solver](https://github.com/siva-viknesh/Wildland_Fire_Dynamics)**
