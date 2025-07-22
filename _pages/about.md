@@ -76,25 +76,31 @@ redirect_from:
 
 
 ## 🖥️ Software and Simulations
+
 <div style="text-align: justify;">
-I have developed and optimized several programs/solvers related to scientific machine learning and fluid flow problems. Please note that if the links are unavailable or denied, the corresponding papers are still under review.  </div>
+I have developed and optimized several programs/solvers related to scientific machine learning and fluid flow problems. Please note that if the links are unavailable or denied, the corresponding papers are still under review.
+</div>
 
-- **[Differentiable Autoencoding Neural Operator](https://github.com/siva-viknesh/Differentiable_Autoencoding_Neural_Operator)**
-- 
-- **[Statistical Shape Modeling - DEM Terrains](https://github.com/siva-viknesh/Statistical_Shape_Modeling_DEM)**
-  
-- **[ADAM-SINDy Methodology](https://github.com/siva-viknesh/ADAM-SINDy)**
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 1em;">
 
-- **[Wildfire Dynamics Transport Solver](https://github.com/siva-viknesh/Wildland_Fire_Dynamics)**
+  <div style="flex: 1; min-width: 250px;">
+    <ul>
+      <li><a href="https://github.com/siva-viknesh/Differentiable_Autoencoding_Neural_Operator"><strong>Differentiable Autoencoding Neural Operator</strong></a></li>
+      <li><a href="https://github.com/siva-viknesh/Statistical_Shape_Modeling_DEM"><strong>Statistical Shape Modeling - DEM Terrains</strong></a></li>
+      <li><a href="https://github.com/siva-viknesh/ADAM-SINDy"><strong>ADAM-SINDy Methodology</strong></a></li>
+      <li><a href="https://github.com/siva-viknesh/Physics-Based_ML/blob/main/Fluid_Mechanics/Physics-based_CNN.ipynb"><strong>Physics-Based CNN for Denoising and Super-Resolution</strong></a></li>
+      <li><a href="https://github.com/siva-viknesh/Inverse-BC-PINN-Framework"><strong>Physics-Informed Neural Networks (PINN)</strong></a></li>
+    </ul>
+  </div>
 
-- **[Physics-Informed Neural Networks (PINN)](https://github.com/siva-viknesh/Inverse-BC-PINN-Framework)**
+  <div style="flex: 1; min-width: 250px;">
+    <ul>
+       <li><a href="https://github.com/siva-viknesh/Wildland_Fire_Dynamics"><strong>Wildfire Dynamics Transport Solver</strong></a></li>
+      <li><a href="https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Spectral_Analysis"><strong>Spectral Analysis for Numerical Schemes</strong></a></li>
+      <li><a href="https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Lid_Driven_Cavity_Flow"><strong>Lid-Driven Cavity Flow Solver</strong></a></li>
+      <li><a href="https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Fluid_Solvers"><strong>Flow Instability Solver</strong></a></li>
+      <li><a href="https://github.com/siva-viknesh/Experiments_Pitching_Airfoil"><strong>Unsteady Force/Pressure/Hot-Wire Measurements</strong></a></li>
+    </ul>
+  </div>
 
-- **[Physics-Based CNN for Denoising and Super-Resolution](https://github.com/siva-viknesh/Physics-Based_ML/blob/main/Fluid_Mechanics/Physics-based_CNN.ipynb)**
-
-- **[Spectral Analysis for Numerical Schemes](https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Spectral_Analysis)**
-
-- **[Lid-Driven Cavity Flow Solver](https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Lid_Driven_Cavity_Flow)**
-
-- **[Flow Instability Solver](https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Fluid_Solvers)**
-
-- **[Unsteady Force/Pressure/Hot-Wire Measurements](https://github.com/siva-viknesh/Experiments_Pitching_Airfoil)**
+</div>
