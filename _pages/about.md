@@ -11,24 +11,23 @@ redirect_from:
 <div style="text-align: justify;">
 👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>.<br><br>
 
-🔬 <strong>Research Interests:</strong> <em>Scientific Machine Learning</em>, <em>Unsteady Aerodynamics</em>,  <em>CFD</em>, <em>Wildfire Dynamics</em>, and <em>Wind Tunnel Measurements</em>.<br><br>
+🔬 <strong>Research Interests:</strong> <em>Scientific Machine Learning</em>, <em>Unsteady Aerodynamics</em>,  <em>Computational Fluid Mechanics</em>, <em>Wildfire Dynamics</em>, and <em>Wind Tunnel Measurements</em>.<br><br>
 
-🌊 <strong>Fluid Mechanics:</strong> I am inclined towards Fluid Mechanics, delving into areas such as unsteady aerodynamics, wildfire dynamics, and cardiovascular flow. I also focus on developing computational methods and integrating machine learning methodologies to solve these complex problems.<br><br>
+🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering with a specialization in Aerodynamics from <strong>IIT Kanpur</strong>, where I worked in the HPCL Lab with <strong>Dr. Tapan K. Sengupta</strong> and the LSA Lab with <strong>Dr. Kamal Poddar</strong>, focusing on Computational Fluid Mechanics and Wind Tunnel Measurements. I earned my Bachelor’s degree in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, which sparked my passion for Aerodynamics and solving PDEs.<br><br>
 
-
-🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering with a specialization in Aerodynamics from **IIT Kanpur**, where I worked in the HPCL Lab with **Dr. Tapan K. Sengupta** and the LSA Lab with **Dr. Kamal Poddar**, focusing on Computational Fluid Mechanics and Wind Tunnel Measurements. I earned my Bachelor’s degree in Aeronautical Engineering from **Anna University**, Tamil Nadu, which sparked my passion for Aerodynamics and solving PDEs.<br><br>
+📚 See my [**CV here**](https://github.com/siva-viknesh/siva-viknesh.github.io/blob/master/files/Siva_Resume.pdf).
 </div>
 
 
 ## 🔬 Academic Research
-- 🔥 **[Wildfire Dynamics](https://arxiv.org/abs/2411.04007v1):** 
+- 🔥 **[Wildfire Dynamics](https://arxiv.org/abs/2411.04007v2):** 
   <div style="text-align: justify;">
   Identified two <strong>new non-dimensional numbers</strong> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction.
   </div>
 
-- 🤖 **[Interpretable Machine Learning](https://arxiv.org/abs/2410.16528):**
+- 🤖 **[Interpretable Machine Learning](https://arxiv.org/abs/2410.16528v3):**
   <div style="text-align: justify;">
-  Developed the <strong>ADAM-SINDy</strong> framework for system identification of non-linear dynamical systems, avoiding prior system knowledge (paper submitted). Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
+  Developed the <strong>ADAM-SINDy</strong> framework for non-linear dynamical system identification, avoiding prior system knowledge (paper submitted). Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
   </div>
 
 - 🛩️ **[Pitching Airfoil](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric):** 
