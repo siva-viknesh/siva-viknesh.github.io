@@ -21,8 +21,8 @@ redirect_from:
 
   <p>🎓 <strong>Educational Background:</strong></p>
   <ul>
-    <li>Master of Science in Aerospace Engineering with a specialization in Aerodynamics from <strong>IIT Kanpur</strong>, India.</li>
-    <li>Bachelor of Engineering in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India.</li>
+    <li>M.S., Aerospace Engineering, Aerodynamics Major, <strong>IIT Kanpur</strong>, India.</li>
+    <li>B.E., Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India.</li>
   </ul>
 </div>
 
