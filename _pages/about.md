@@ -43,7 +43,7 @@ redirect_from:
 ## 🖥️ Software and Simulations
 
 <div style="text-align: justify; max-width: 100%; padding: 0 10px;">
-I have developed and optimized several programs/solvers related to scientific machine learning and fluid flow problems. Please note that if the links are unavailable or denied, the corresponding papers are still under review.
+Developed and optimized the programs and solvers below for scientific machine learning and fluid flow problems. If links are unavailable, the corresponding papers are still under review.
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 1em; width: 100%; padding: 0 10px; box-sizing: border-box;">
