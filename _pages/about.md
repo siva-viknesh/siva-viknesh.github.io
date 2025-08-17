@@ -22,7 +22,7 @@ redirect_from:
   <p>🎓 <strong>Educational Background:</strong></p>
   <ul>
     <li>M.S., Aerospace Engineering, Aerodynamics Major, <strong>IIT Kanpur</strong>, India.</li>
-    <li>B.E., Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India.</li>
+    <li>B.E., Aeronautical Engineering, <strong>Anna University</strong>, Tamil Nadu, India.</li>
   </ul>
 </div>
 
