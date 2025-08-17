@@ -15,7 +15,7 @@ redirect_from:
 
 🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering with a specialization in Aerodynamics from <strong>IIT Kanpur</strong>, where I worked in the HPCL Lab with <strong>Dr. Tapan K. Sengupta</strong> and the LSA Lab with <strong>Dr. Kamal Poddar</strong>, focusing on Computational Fluid Mechanics and Wind Tunnel Measurements. I earned my Bachelor’s degree in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, which sparked my passion for Aerodynamics and solving PDEs.<br><br>
 
-📚 See my [**CV here**](https://github.com/siva-viknesh/siva-viknesh.github.io/blob/master/files/Siva_Resume.pdf).
+📚 See my [**CV here**](/files/Siva_Resume.pdf).
 </div>
 
 
