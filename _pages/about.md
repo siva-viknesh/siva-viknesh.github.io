@@ -9,12 +9,25 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>.<br><br>
+  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>.</p>
 
-🔬 <strong>Research Interests:</strong> <em>Scientific Machine Learning</em>, <em>Unsteady Aerodynamics</em>,  <em>Computational Fluid Mechanics</em>, <em>Wildfire Dynamics</em>, and <em>Wind Tunnel Measurements</em>.<br><br>
+  <p>🔬 <strong>Research Interests:</strong> 
+    <em>Scientific Machine Learning</em>, 
+    <em>Unsteady Aerodynamics</em>,  
+    <em>Computational Fluid Mechanics</em>, 
+    <em>Wildfire Dynamics</em>, and 
+    <em>Wind Tunnel Measurements</em>.
+  </p>
 
-🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering with a specialization in Aerodynamics from <strong>IIT Kanpur</strong>, where I worked in the HPCL Lab with <strong>Dr. Tapan K. Sengupta</strong> and the LSA Lab with <strong>Dr. Kamal Poddar</strong>, focusing on Computational Fluid Mechanics and Wind Tunnel Measurements. I earned my Bachelor’s degree in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, which sparked my passion for Aerodynamics and solving PDEs.<br><br>
+  <p>🎓 <strong>Educational Background:</strong></p>
+  <ul>
+    <li>Master of Science in Aerospace Engineering with a specialization in Aerodynamics from <strong>IIT Kanpur</strong>, India.</li>
+    <li>Bachelor of Engineering in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India.</li>
+  </ul>
 </div>
+
+
+
 📚 See my [**CV here**](/files/Siva_Resume.pdf).
 
 ## 🔬 Academic Research
