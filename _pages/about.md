@@ -14,10 +14,9 @@ redirect_from:
 🔬 <strong>Research Interests:</strong> <em>Scientific Machine Learning</em>, <em>Unsteady Aerodynamics</em>,  <em>Computational Fluid Mechanics</em>, <em>Wildfire Dynamics</em>, and <em>Wind Tunnel Measurements</em>.<br><br>
 
 🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering with a specialization in Aerodynamics from <strong>IIT Kanpur</strong>, where I worked in the HPCL Lab with <strong>Dr. Tapan K. Sengupta</strong> and the LSA Lab with <strong>Dr. Kamal Poddar</strong>, focusing on Computational Fluid Mechanics and Wind Tunnel Measurements. I earned my Bachelor’s degree in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, which sparked my passion for Aerodynamics and solving PDEs.<br><br>
-
-📚 See my [**CV here**](/files/Siva_Resume.pdf).
 </div>
 
+📚 See my [**CV here**](/files/Siva_Resume.pdf).
 
 ## 🔬 Academic Research
 - 🔥 **[Wildfire Dynamics](https://arxiv.org/abs/2411.04007v2):** 
