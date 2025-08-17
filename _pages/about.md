@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of dynamical system analysis](https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_dyna3.webp){: width="100%"}
-
 <div style="text-align: justify;">
 👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>.<br><br>
 
@@ -17,8 +15,10 @@ redirect_from:
 
 🌊 <strong>Fluid Mechanics:</strong> I am inclined towards Fluid Mechanics, delving into areas such as unsteady aerodynamics, wildfire dynamics, and cardiovascular flow. I also focus on developing computational methods and integrating machine learning methodologies to solve these complex problems.<br><br>
 
-🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering, specializing in Aerodynamics, from <strong>IIT Kanpur</strong>, India. I had the privilege of working in the HPCL Lab with <strong>Dr. Tapan K. Sengupta</strong> and the LSA Lab with <strong>Dr. Kamal Poddar</strong>, where I focused on both Computational Fluid Mechanics and Wind Tunnel Measurements. My Bachelor's degree in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, sparked my passion for Aerodynamics and solving PDEs.<br><br>
+
+🎓 <strong>Educational Background:</strong> I hold a Master’s degree in Aerospace Engineering with a specialization in Aerodynamics from **IIT Kanpur**, where I worked in the HPCL Lab with **Dr. Tapan K. Sengupta** and the LSA Lab with **Dr. Kamal Poddar**, focusing on Computational Fluid Mechanics and Wind Tunnel Measurements. I earned my Bachelor’s degree in Aeronautical Engineering from **Anna University**, Tamil Nadu, which sparked my passion for Aerodynamics and solving PDEs.<br><br>
 </div>
+
 
 ## 🔬 Academic Research
 - 🔥 **[Wildfire Dynamics](https://arxiv.org/abs/2411.04007v1):** 
@@ -41,39 +41,7 @@ redirect_from:
   Sensitivity of multiple Hopf bifurcations and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
   </div>
 
-
-## 🏭 Industrial Experience
-
-<div style="text-align: justify;">
-  <ul>
-    <li>
-      🛠️ <strong>Formulation of Solver Templates:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;Developed a Finite Volume Method (FVM) solver template tailored for <strong>Multiple Reference Frame (MRF) </strong> Propeller simulations, achieving a significant validation error reduction of 30%.
-    </li>
-    <li>
-      ✈️ <strong>Aerodynamic Performance Evaluation:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;Conducted comprehensive CFD simulations of full-scale 3D electric air vehicle models, incorporating MRF zones to evaluate aerodynamic performance and static stability.
-    </li>
-    <li>
-      📈 <strong>Dynamic Stability Analysis:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;Performed Unsteady Reynolds-Averaged Navier–Stokes (RANS) simulations to compute <strong>dynamic stability derivatives</strong> for air vehicles. Simulations mimicked pitching, plunging, and flapping motions within a non-inertial reference frame.
-    </li>
-    <li>
-      🗺️ <strong>Mesh Optimization:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;Optimized grid resolution for full-scale 3D models using flow physics; <strong>Adaptive Mesh Refinement (AMR) </strong> techniques.
-    </li>
-    <li>
-      🖥️ <strong>Custom UDF Development:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;Developed User-Defined Functions(UDFs) to mirror rotor effects through an actuating disk model, simultaneously imposing pressure jumps and tangential/radial velocity profiles across specified areas and time intervals.
-    </li>
-    <li>
-      🎛️ <strong>Control Effectiveness Evaluation:</strong><br>
-      &nbsp;&nbsp;&nbsp;&nbsp;CFD simulations to assess control effectiveness for components such as rudders, ailerons, and elevators in full-scale 3D models.
-    </li>
-  </ul>
-</div>
-
-
+📚 For the complete list of my publications, visit my [**Google Scholar Profile**](https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en).  
 
 ## 🖥️ Software and Simulations
 
