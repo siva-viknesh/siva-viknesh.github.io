@@ -19,8 +19,8 @@ redirect_from:
     <em>Wind Tunnel Measurements</em>.
   </p>
 
-  <p>🎓 <strong>Educational Background:</strong></p>
-  I hold an M.S. in Aerospace Engineering with a specialization in Aerodynamics from <strong>IIT Kanpur</strong>, India, where I worked with Dr. Kamal Poddar and Dr. Tapan K. Sengupta on Computational Fluid Mechanics and Wind Tunnel Measurements. I earned my B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.
+<p>🎓 <strong>Educational Background:</strong>  
+  I hold an M.S. in Aerospace Engineering with a specialization in Aerodynamics from <strong>IIT Kanpur</strong>, India, where I worked with Dr. Kamal Poddar and Dr. Tapan K. Sengupta on Computational Fluid Mechanics and Wind Tunnel Measurements, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.</p>
 </div>
 
 
