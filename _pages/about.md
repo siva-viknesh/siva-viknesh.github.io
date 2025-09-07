@@ -20,7 +20,7 @@ redirect_from:
   </p>
 
 <p>🎓 <strong>Educational Background:</strong>  
-  I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational Fluid Mechanics and Wind Tunnel Measurements, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.</p>
+  I hold an <strong><span style="color: skyblue;">M.S. in Aerospace Engineering with Aerodynamics major</span></strong> from <strong>IIT Kanpur</strong>, India, where I focused on both Computational Fluid Mechanics and Wind Tunnel Measurements, and a <strong><span style="color: skyblue;">B.E. in Aeronautical Engineering</span></strong> from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.</p>
 </div>
 
 
