@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I work at the intersection of <strong><span style="color: brightblue;">Fluid Mechanics and Scientific Machine Learning</span></strong>, developing <strong>interpretable AI methods</strong> that integrate physics-based principles with classical numerical solvers to produce physically consistent spatio-temporal models of complex flows.</p>
+  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I work at the intersection of <strong><span style="color: #1E90FF;">Fluid Mechanics and Scientific Machine Learning</span></strong>, developing <strong>interpretable AI methods</strong> that integrate physics-based principles with classical numerical solvers to produce physically consistent spatio-temporal models of complex flows.</p>
 
   <p>🔬 <strong>Research Interests:</strong> 
     <em>Scientific Machine Learning</em>, 
@@ -20,7 +20,7 @@ redirect_from:
   </p>
 
 <p>🎓 <strong>Educational Background:</strong>  
-  I hold an <strong><span style="color: brightblue;">M.S. in Aerospace Engineering with Aerodynamics major</span></strong> from <strong>IIT Kanpur</strong>, India, where I focused on both Computational Fluid Mechanics and Wind Tunnel Measurements, and a <strong><span style="color: brightblue;">B.E. in Aeronautical Engineering</span></strong> from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.</p>
+  I hold an <strong><span style="color: #1E90FF;">M.S. in Aerospace Engineering with Aerodynamics major</span></strong> from <strong>IIT Kanpur</strong>, India, where I focused on both Computational Fluid Mechanics and Wind Tunnel Measurements, and a <strong><span style="color: #1E90FF;">B.E. in Aeronautical Engineering</span></strong> from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.</p>
 </div>
 
 
