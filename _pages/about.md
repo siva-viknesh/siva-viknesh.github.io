@@ -40,7 +40,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;• Identified <a href="https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric"><strong>upstream-convecting vortices</strong></a> (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV & Pressure measurements.
 
 <span style="font-weight:bold;">🌪️ Flow Instabilities:</span>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Sensitivity of <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305" style="color:#1E90FF;"><strong>multiple Hopf bifurcations</strong></a> and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
+&nbsp;&nbsp;&nbsp;&nbsp;• Sensitivity of <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305"><strong>multiple Hopf bifurcations</strong></a> and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
 
 📚 For the complete list of my publications, visit my [**Google Scholar Profile**](https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en).  
 
