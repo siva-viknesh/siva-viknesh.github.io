@@ -33,7 +33,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;• Identified two <a href="https://arxiv.org/abs/2411.04007v2"><strong>new non-dimensional numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction.
 
 <span style="font-weight:bold;">🤖 Interpretable Machine Learning:</span>  
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Differentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers.  
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>DIfferentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers.  
 &nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://arxiv.org/abs/2410.16528" style="font-weight:bold;"><strong>ADAM-SINDy</strong></a> framework for non-linear dynamical system identification, without requiring prior system knowledge. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
 
 <span style="font-weight:bold;">🛩️ Pitching Airfoil:</span>  
