@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-  <p>👨🏻‍🎓 <strong style="color:#1E90FF;">PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I work at the intersection of <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid ML–Physics Methods</strong> that combine data-driven models and physics principles to solve complex spatio-temporal flow problems.</p>
+  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I work at the intersection of <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid ML–Physics Methods</strong> that combine data-driven models and physics principles to solve complex spatio-temporal flow problems.</p>
 
   <p>🔬 <strong>Research Interests:</strong> 
     <em>Scientific Machine Learning</em>, 
@@ -29,22 +29,19 @@ redirect_from:
 
 ## 🔬 Academic Research
 
-<span style="font-weight:bold;">🔥 Wildfire Dynamics:</span> 
-<div style="text-align: justify; margin-left: 20px;">Identified two <a href="https://arxiv.org/abs/2411.04007v2"><strong>new non-dimensional numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction.
-</div>
+<span style="font-weight:bold;">🔥 Wildfire Dynamics:</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Identified two <a href="https://arxiv.org/abs/2411.04007v2"><strong>new non-dimensional numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction.
 
-<span style="font-weight:bold;">🤖 Interpretable Machine Learning:</span>
-<div style="text-align: justify; margin-left: 20px;">• <strong>Differentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers. <br>
-<div style="text-align: justify; margin-left: 20px;">• <a href="https://arxiv.org/abs/2410.16528" style="font-weight:bold;"><strong>ADAM-SINDy</strong></a> framework for non-linear dynamical system identification, without requiring prior system knowledge. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
-</div>
+<span style="font-weight:bold;">🤖 Interpretable Machine Learning:</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Differentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers.  
+&nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://arxiv.org/abs/2410.16528" style="font-weight:bold;"><strong>ADAM-SINDy</strong></a> framework for non-linear dynamical system identification, without requiring prior system knowledge. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
 
-<span style="font-weight:bold;">🛩️ Pitching Airfoil:</span> 
-<div style="text-align: justify; margin-left: 20px;">Identified <a href="https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric"><strong>upstream-convecting vortices</strong></a> (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV & Pressure measurements.
-</div>
+<span style="font-weight:bold;">🛩️ Pitching Airfoil:</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Identified <a href="https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric"><strong>upstream-convecting vortices</strong></a> (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV & Pressure measurements.
 
-<span style="font-weight:bold;">🌪️ Flow Instabilities:</span> 
-<div style="text-align: justify; margin-left: 20px;">Sensitivity of <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305" style="color:#1E90FF;"><strong>multiple Hopf bifurcations</strong></a> and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
-</div>
+<span style="font-weight:bold;">🌪️ Flow Instabilities:</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Sensitivity of <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305" style="color:#1E90FF;"><strong>multiple Hopf bifurcations</strong></a> and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
+
 📚 For the complete list of my publications, visit my [**Google Scholar Profile**](https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en).  
 
 ## 🖥️ Software and Simulations
