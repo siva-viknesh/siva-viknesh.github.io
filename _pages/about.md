@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I work at the intersection of Fluid Mechanics and Scientific Machine Learning, developing <strong>interpretable AI methods</strong> that integrate physics-based principles with classical numerical solvers to produce physically consistent spatio-temporal models of complex flows.</p>
+  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I work at the intersection of <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid ML–Physics Methods</strong> that combine data-driven models with numerical PDE solvers to solve physically consistent spatio-temporal complex flows.</p>
 
   <p>🔬 <strong>Research Interests:</strong> 
     <em>Scientific Machine Learning</em>, 
@@ -35,9 +35,9 @@ redirect_from:
 
 - 🤖 **Interpretable Machine Learning:**
   <div style="text-align: justify;">
-   • Developed the <strong>Differentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of nonlinear dimensionality reduction, operator learning, and  differentiable PDE solvers.  
+   • <strong>Differentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of nonlinear dimensionality reduction, operator learning, and  differentiable PDE solvers.  
    <br>
-    • Developed the <a href="https://arxiv.org/abs/2410.16528"><strong>ADAM-SINDy</strong></a> framework for non-linear dynamical system identification, without requiring prior system knowledge. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
+    • <a href="https://arxiv.org/abs/2410.16528"><strong>ADAM-SINDy</strong></a> framework for non-linear dynamical system identification, without requiring prior system knowledge. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
   </div>
 
 - 🛩️ **[Pitching Airfoil](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric):** 
