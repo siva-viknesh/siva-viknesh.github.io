@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-  <p>👨🏻‍🎓 <strong style="color:#1E90FF;">PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I work at the intersection of <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid ML–Physics Methods</strong> that combine data-driven models with numerical PDE solvers to solve physically consistent spatio-temporal complex flows.</p>
+  <p>👨🏻‍🎓 <strong style="color:#1E90FF;">PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I work at the intersection of <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid ML–Physics Methods</strong> that combine data-driven models and physics principles to solve complex spatio-temporal flow problems.</p>
 
   <p>🔬 <strong>Research Interests:</strong> 
     <em>Scientific Machine Learning</em>, 
