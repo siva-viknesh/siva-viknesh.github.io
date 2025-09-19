@@ -28,28 +28,27 @@ redirect_from:
 📚 See my [**CV here**](/files/Siva_Resume.pdf).
 
 ## 🔬 Academic Research
-- 🔥 **[Wildfire Dynamics](https://arxiv.org/abs/2411.04007v2):** 
+- <span style="color:#1E90FF;">🔥 [Wildfire Dynamics](https://arxiv.org/abs/2411.04007v2):</span> 
   <div style="text-align: justify;">
   Identified two <strong>new non-dimensional numbers</strong> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction.
   </div>
 
-- 🤖 **Interpretable Machine Learning:**
+- <span style="color:#1E90FF;">🤖 Interpretable Machine Learning:</span>
   <div style="text-align: justify;">
    • <strong>Differentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and  Differentiable PDE solvers.  
    <br>
     • <a href="https://arxiv.org/abs/2410.16528"><strong>ADAM-SINDy</strong></a> framework for non-linear dynamical system identification, without requiring prior system knowledge. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
   </div>
 
-- 🛩️ **[Pitching Airfoil](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric):** 
+- <span style="color:#1E90FF;">🛩️ [Pitching Airfoil](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric):</span> 
   <div style="text-align: justify;">
   Identified upstream-convecting vortices (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV & Pressure measurements.
   </div>
 
-- 🌪️ **[Flow Instabilities](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305):** 
+- <span style="color:#1E90FF;">🌪️ [Flow Instabilities](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305):</span> 
   <div style="text-align: justify;">
   Sensitivity of multiple Hopf bifurcations and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
   </div>
-
 📚 For the complete list of my publications, visit my [**Google Scholar Profile**](https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en).  
 
 ## 🖥️ Software and Simulations
