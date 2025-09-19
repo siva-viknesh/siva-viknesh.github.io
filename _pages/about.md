@@ -28,26 +28,27 @@ redirect_from:
 📚 See my [**CV here**](/files/Siva_Resume.pdf).
 
 ## 🔬 Academic Research
-- <span style="color:#1E90FF; font-weight:bold;">🔥 Wildfire Dynamics:</span> 
-  <div style="text-align: justify;">
-  Identified two <a href="https://arxiv.org/abs/2411.04007v2" style="color:#1E90FF;"><strong>new non-dimensional numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction.
-  </div>
 
-- <span style="color:#1E90FF; font-weight:bold;">🤖 Interpretable Machine Learning:</span>
-  <div style="text-align: justify;">
-    • <strong>Differentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers. <br>
-    • <a href="https://arxiv.org/abs/2410.16528" style="color:#1E90FF; font-weight:bold;"><strong>ADAM-SINDy</strong></a> framework for non-linear dynamical system identification, without requiring prior system knowledge. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank" style="color:#1E90FF; font-weight:bold;"><strong>CRUNCH Seminar Talk</strong></a>.
-  </div>
+<span style="font-weight:bold;">🔥 Wildfire Dynamics:</span> 
+<div style="text-align: justify; margin-left: 20px;">
+  Identified two <a href="https://arxiv.org/abs/2411.04007v2"><strong>new non-dimensional numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction.
+</div>
 
-- <span style="color:#1E90FF; font-weight:bold;">🛩️ Pitching Airfoil:</span> 
-  <div style="text-align: justify;">
-  Identified <a href="https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric" style="color:#1E90FF;"><strong>upstream-convecting vortices</strong></a> (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV & Pressure measurements.
-  </div>
+<span style="font-weight:bold;">🤖 Interpretable Machine Learning:</span>
+<div style="text-align: justify; margin-left: 20px;">
+  • <strong>Differentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers. <br>
+  • <a href="https://arxiv.org/abs/2410.16528" style="font-weight:bold;"><strong>ADAM-SINDy</strong></a> framework for non-linear dynamical system identification, without requiring prior system knowledge. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
+</div>
 
-- <span style="color:#1E90FF; font-weight:bold;">🌪️ Flow Instabilities:</span> 
-  <div style="text-align: justify;">
+<span style="font-weight:bold;">🛩️ Pitching Airfoil:</span> 
+<div style="text-align: justify; margin-left: 20px;">
+  Identified <a href="https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric"><strong>upstream-convecting vortices</strong></a> (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV & Pressure measurements.
+</div>
+
+<span style="font-weight:bold;">🌪️ Flow Instabilities:</span> 
+<div style="text-align: justify; margin-left: 20px;">
   Sensitivity of <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305" style="color:#1E90FF;"><strong>multiple Hopf bifurcations</strong></a> and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
-  </div>
+</div>
 📚 For the complete list of my publications, visit my [**Google Scholar Profile**](https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en).  
 
 ## 🖥️ Software and Simulations
