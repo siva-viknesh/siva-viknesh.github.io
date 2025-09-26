@@ -34,13 +34,13 @@ redirect_from:
 
 <span style="font-weight:bold;">🤖 Interpretable Machine Learning:</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;• <strong>DIfferentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers.  
-&nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://arxiv.org/abs/2410.16528" style="font-weight:bold;"><strong>ADAM-SINDy</strong></a> framework for non-linear dynamical system identification, without requiring prior system knowledge. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
+&nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://arxiv.org/abs/2410.16528" style="font-weight:bold;"><strong>ADAM-SINDy</strong></a>, a differentiable optimization framework for identification of Parameterized Nonlinear Dynamical Systems. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
 
 <span style="font-weight:bold;">🛩️ Pitching Airfoil:</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;• Identified <a href="https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric"><strong>upstream-convecting vortices</strong></a> (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV & Pressure measurements.
 
 <span style="font-weight:bold;">🌪️ Flow Instabilities:</span>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Sensitivity of <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305"><strong>multiple Hopf bifurcations</strong></a> and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical methods and grid resolution.
+&nbsp;&nbsp;&nbsp;&nbsp;• Sensitivity of <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305"><strong>Multiple Hopf Bifurcations</strong></a> and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical schemes and grid resolution.
 
 📚 For the complete list of my publications, visit my [**Google Scholar Profile**](https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en).  
 
