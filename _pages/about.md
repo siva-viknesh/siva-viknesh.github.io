@@ -28,6 +28,7 @@ redirect_from:
 📚 See my [**CV here**](/files/Siva_Resume.pdf).
 
 ## 🔬 Academic Research
+
 <span style="font-weight:bold;">🤖 Scientific Machine Learning:</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;• <strong>DIfferentiable Autoencoding Neural Operator (DIANO)</strong> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers.  
 &nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://arxiv.org/abs/2410.16528" style="font-weight:bold;"><strong>ADAM-SINDy</strong></a>, a differentiable optimization framework for identification of Parameterized Nonlinear Dynamical Systems. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.
