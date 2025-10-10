@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I work at the intersection of <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid ML–Physics Methods</strong> that combine data-driven models and physics principles to solve complex spatio-temporal flow problems.</p>
+  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>.I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–AI frameworks</strong> that integrate physics principles with data-driven methods to solve complex spatio-temporal engineering flow problems.</p> <p>Specifically, my research spans:</p> <ul> <li><strong>Fundamental Fluid Mechanics:</strong> Uncovering and understanding the fluid flow dynamics.</li> <li><strong>Differentiable PDE solvers:</strong> Using AI methods to accelerate computational simulations.</li> <li><strong>Differentiable AI methods:</strong> Incorporating physical priors into AI models to make them interpretable and produce physically consistent predictions.</li> </ul> <p>I always look for solving real-world engineering problems, moving beyond academic exercises to develop solutions that are both scientifically rigorous and practically impactful.</p>
+</p>
 
   <p>🔬 <strong>Research Interests:</strong> 
     <em>Scientific Machine Learning</em>, 
