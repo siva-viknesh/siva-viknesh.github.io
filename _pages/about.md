@@ -14,14 +14,9 @@ redirect_from:
   
 <p> <span style="font-weight:bold;">🔬 Research Interests:</span><br> &nbsp;&nbsp;&nbsp;• <strong>Aerodynamics</strong>: Uncovering the fundamental flow physics, pertinent to Rotary Wings.<br> &nbsp;&nbsp;&nbsp;• <strong>Wildfire Dynamics</strong>: Exploring the intricate interactions of Terrain shape-Wind Topology-Fire.<br> &nbsp;&nbsp;&nbsp;• <strong>Differentiable PDE Solvers</strong>: Using AI methods to accelerate computational simulations.<br> &nbsp;&nbsp;• <strong>Differentiable AI Methods</strong>: Integrate physical priors, making AI models both interpretable and physically consistent. </p>
 
-
-
   <p>🎓 <strong>Educational Background:</strong> I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.  </p>
-
   <p>📚 See my <a href="/files/Siva_Resume.pdf"><strong>CV here</strong></a>.</p>
-
 </div>
-
 ## 🔬 Academic Research
 
 <span style="font-weight:bold;">🤖 Scientific Machine Learning:</span>  
