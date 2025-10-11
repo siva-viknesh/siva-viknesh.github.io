@@ -20,7 +20,10 @@ redirect_from:
   <p>👨🏻‍🔬 I always look for solving real-world engineering problems, moving beyond academic exercises, and developing solutions that are both scientifically rigorous and practically impactful.</p>
 
   <p>🎓 <strong>Educational Background:</strong><br>
-  I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.</p>
+    <span style="padding-left: 20px; display: inline-block;">
+      I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.
+    </span>
+  </p>
 </div>
 
 <p>📚 See my <a href="/files/Siva_Resume.pdf"><strong>CV here</strong></a>.</p>
