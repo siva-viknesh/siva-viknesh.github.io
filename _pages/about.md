@@ -12,7 +12,10 @@ redirect_from:
 
   <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–AI frameworks</strong> that integrate physics principles with data-driven methods to solve real-world engineering problems, that are both scientifically rigorous and practically impactful.</p>
   
-<p> <span style="font-weight:bold;">🔬 Research Interests:</span><br> &nbsp;&nbsp;&nbsp;• <strong>Aerodynamics</strong>: Uncovering the fundamental flow physics, pertinent to Rotary Wings.<br> &nbsp;&nbsp;&nbsp;• <strong>Wildfire Dynamics</strong>: Exploring the intricate interactions of Terrain shape-Wind Topology-Fire.<br> &nbsp;&nbsp;&nbsp;• <strong>Differentiable PDE Solvers</strong>: Using AI methods to accelerate computational simulations.<br> &nbsp;&nbsp;• <strong>Differentiable AI Methods</strong>: Integrate physical priors, making AI models both interpretable and physically consistent. </p>
+<p>
+  <span style="font-weight:bold;">🔬 Research Interests:</span>  Scientific Machine Learning, Computational Fluid Mechanics, Unsteady Aerodynamics, and Wildfire Dynamics.
+</p>
+
 
   <p>🎓 <strong>Educational Background:</strong> I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.  </p>
   <p>📚 See my <a href="/files/Siva_Resume.pdf"><strong>CV here</strong></a>.</p>
