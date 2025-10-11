@@ -10,15 +10,12 @@ redirect_from:
 
 <div style="text-align: justify; line-height: 1.6;">
 
-  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–AI frameworks</strong> that integrate physics principles with data-driven methods to solve complex spatio-temporal flow problems.</p>
+  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–AI frameworks</strong> that integrate physics principles with data-driven methods to solve complex spatio-temporal flow problems. Importantly, I always look for solving real-world engineering problems, moving beyond academic exercises, and developing solutions that are both scientifically rigorous and practically impactful.</p>
 
 <span style="font-weight:bold;">🔬 Research Interests:</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Aerodynamics</strong>: Uncovering and understanding the fundamental flow physics, pertinent to <strong>Flow Instabilities, Rotary Wings and Wildfire Dynamics</strong>.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Aerodynamics</strong>: Uncovering and understanding the fundamental flow physics, pertinent to Flow Instabilities, Rotary Wings, and Wildfire Dynamics.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• <strong>Differentiable PDE Solvers</strong>: Using AI methods to accelerate computational simulations.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• <strong>Differentiable AI Methods</strong>: Incorporating physical priors into AI models, making them both interpretable and physically consistent.
-
-
-  <p>👨🏻‍🔬 I always look for solving real-world engineering problems, moving beyond academic exercises, and developing solutions that are both scientifically rigorous and practically impactful.</p>
 
   <p>🎓 <strong>Educational Background:</strong> I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.
 
