@@ -11,10 +11,11 @@ redirect_from:
 <div style="text-align: justify;">
   <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–AI frameworks</strong> that integrate physics principles with data-driven methods to solve complex spatio-temporal flow problems.</p>
 
-<span style="font-weight:bold;">🔬 Research Interest spans:</span>  
-&nbsp;&nbsp;&nbsp;&nbsp;• <span style="font-weight:bold;"><strong>Fluid Mechanics</strong></span>: Uncovering and understanding the fundamental flow physics, particularly, <strong>Aerodynamics</strong>.  
-&nbsp;&nbsp;&nbsp;&nbsp;• <span style="font-weight:bold;"><strong>Differentiable PDE Solvers</strong></span>: Using AI methods to accelerate computational simulations.  
-&nbsp;&nbsp;&nbsp;&nbsp;• <span style="font-weight:bold;"><strong>Differentiable AI Methods</strong></span>: Incorporating physical priors into AI models, making them both interpretable and physically consistent.
+<span style="font-weight:bold;">🔬 Research Interest spans:</span>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;• <span style="font-weight:bold;"><strong>Fluid Mechanics</strong></span>: Uncovering and understanding the fundamental flow physics, particularly, <strong>Aerodynamics</strong>.</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;• <span style="font-weight:bold;"><strong>Differentiable PDE Solvers</strong></span>: Using AI methods to accelerate computational simulations.</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;• <span style="font-weight:bold;"><strong>Differentiable AI Methods</strong></span>: Incorporating physical priors into AI models, making them both interpretable and physically consistent.</div>
+
   <p>👨🏻‍🔬 I always look for solving real-world engineering problems, moving beyond academic exercises, and developing solutions that are both scientifically rigorous and practically impactful.</p>
 
 <p>🎓 <strong>Educational Background:</strong><br>
