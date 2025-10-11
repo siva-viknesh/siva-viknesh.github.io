@@ -11,13 +11,8 @@ redirect_from:
 <div style="text-align: justify; line-height: 1.6;">
 
   <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–AI frameworks</strong> that integrate physics principles with data-driven methods to solve real-world engineering problems, that are both scientifically rigorous and practically impactful.</p>
-<p>
-<span style="font-weight:bold;">🔬 Research Interests:</span><br>
-• <strong>Aerodynamics</strong>: Uncovering the fundamental flow physics, pertinent to Flow Instabilities and Rotary Wings.<br>
-• <strong>Wildfire Dynamics</strong>: Exploring the intricate interactions of Terrain shape-Wind Topology-Fire.<br>
-• <strong>Differentiable PDE Solvers</strong>: Using AI methods to accelerate computational simulations.<br>
-• <strong>Differentiable AI Methods</strong>: Integrate physical priors, making AI models both interpretable and physically consistent.
-</p>
+  
+<p> <span style="font-weight:bold;">🔬 Research Interests:</span><br> &nbsp;&nbsp;&nbsp;• <strong>Aerodynamics</strong>: Uncovering the fundamental flow physics, pertinent to Flow Instabilities and Rotary Wings.<br> &nbsp;&nbsp;&nbsp;• <strong>Wildfire Dynamics</strong>: Exploring the intricate interactions of Terrain shape-Wind Topology-Fire.<br> &nbsp;&nbsp;&nbsp;• <strong>Differentiable PDE Solvers</strong>: Using AI methods to accelerate computational simulations.<br> &nbsp;&nbsp;&nbsp;• <strong>Differentiable AI Methods</strong>: Integrate physical priors, making AI models both interpretable and physically consistent. </p>
 
 
 
