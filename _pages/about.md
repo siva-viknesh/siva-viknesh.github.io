@@ -17,10 +17,9 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;• <span style="font-weight:bold;"><strong>Differentiable AI Methods</strong></span>: Incorporating physical priors into AI models, making them both interpretable and physically consistent.
   <p>👨🏻‍🔬 I always look for solving real-world engineering problems, moving beyond academic exercises, and developing solutions that are both scientifically rigorous and practically impactful.</p>
 
-  <p>🎓 <strong>Educational Background:</strong><br>
-      <span style="display: block; margin-left: 20px; text-align: justify;">
+<p>🎓 <strong>Educational Background:</strong><br>
 I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.
-</span> </p>
+ </p>
 </div>
 
 <p>📚 See my <a href="/files/Siva_Resume.pdf"><strong>CV here</strong></a>.</p>
