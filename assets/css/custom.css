@@ -108,3 +108,20 @@ body.dark .page__content a {
 body.dark .page__content a:hover {
   color: var(--accent-light);
 }
+/* ---------- Sidebar / Navigation Icons Always Black ---------- */
+.sidebar a,
+.main-navigation a,
+.social-icons a {
+  color: #000000;      /* always black */
+}
+
+.sidebar a:hover,
+.main-navigation a:hover,
+.social-icons a:hover {
+  color: #000000;      /* no hover color change */
+}
+
+.sidebar i,
+.social-icons i {
+  vertical-align: middle;
+}
