@@ -4,12 +4,22 @@
 
 /* ---------- Light Theme ---------- */
 :root {
-  --bg: #ffffff;
-  --text: #1e293b;
-  --accent: #4f46e5;
-  --accent-light: #818cf8;
-  --muted: #94a3b8;
-  --code-bg: #f1f5f9;
+  --bg: #ffffff;          /* page background */
+  --text: #1e293b;        /* default text */
+  --accent: #003366;      /* Indigo Blue */
+  --accent-light: #336699;/* lighter Indigo Blue for hover */
+  --muted: #94a3b8;       /* secondary text */
+  --code-bg: #f1f5f9;     /* code block background */
+}
+
+/* ---------- Dark Theme ---------- */
+body.dark {
+  --bg: #0f172a;          /* dark background */
+  --text: #e2e8f0;        /* light text */
+  --accent: #336699;      /* Indigo Blue for dark mode */
+  --accent-light: #5b87b0;/* lighter Indigo Blue */
+  --muted: #64748b;
+  --code-bg: #1e293b;
 }
 
 /* Base body styling */
