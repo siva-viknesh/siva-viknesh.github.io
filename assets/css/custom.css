@@ -34,36 +34,50 @@ p, li, span, blockquote, strong, em {
 }
 
 /* ---------- Body Content Links ONLY ---------- */
-main a,
+.page__content a,
 article a,
-div:not(.sidebar) a {
+main a,
+div.page__content a {
   color: var(--accent);
   text-decoration: none;
   transition: color 0.2s ease-in-out;
 }
 
-main a:hover,
+.page__content a:hover,
 article a:hover,
-div:not(.sidebar) a:hover {
+main a:hover,
+div.page__content a:hover {
   color: var(--accent-light);
   text-decoration: underline;
 }
 
-/* ---------- Sidebar / Navigation / Footer / Buttons ---------- */
+/* ---------- Ensure everything else remains black ---------- */
 .sidebar a,
 .main-navigation a,
 .social-icons a,
 .page__footer a,
-.hero-button {
-  color: #000000 !important; /* always black */
+.hero-button,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: #000000 !important;
 }
 
 .sidebar a:hover,
 .main-navigation a:hover,
 .social-icons a:hover,
 .page__footer a:hover,
-.hero-button:hover {
-  color: #000000 !important; /* no hover change */
+.hero-button:hover,
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover {
+  color: #000000 !important;
 }
 
 .sidebar i,
@@ -119,14 +133,16 @@ body.dark {
   color: var(--text);
 }
 
-body.dark main a,
+body.dark .page__content a,
 body.dark article a,
-body.dark div:not(.sidebar) a {
+body.dark main a,
+body.dark div.page__content a {
   color: var(--accent);
 }
 
-body.dark main a:hover,
+body.dark .page__content a:hover,
 body.dark article a:hover,
-body.dark div:not(.sidebar) a:hover {
+body.dark main a:hover,
+body.dark div.page__content a:hover {
   color: var(--accent-light);
 }
