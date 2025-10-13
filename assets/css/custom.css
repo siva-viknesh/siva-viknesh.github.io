@@ -34,12 +34,16 @@ p, li, span, blockquote, strong, em {
 }
 
 /* ---------- Links inside body content ONLY ---------- */
+main a,
+.post-content a,
 .page__content a {
   color: var(--accent);
   text-decoration: none;
   transition: color 0.2s ease-in-out;
 }
 
+main a:hover,
+.post-content a:hover,
 .page__content a:hover {
   color: var(--accent-light);
   text-decoration: underline;
@@ -116,10 +120,14 @@ body.dark {
 }
 
 /* Body content links in dark mode */
+body.dark main a,
+body.dark .post-content a,
 body.dark .page__content a {
   color: var(--accent);
 }
 
+body.dark main a:hover,
+body.dark .post-content a:hover,
 body.dark .page__content a:hover {
   color: var(--accent-light);
 }
