@@ -45,12 +45,26 @@ p, li, span, blockquote, strong, em {
   text-decoration: underline;
 }
 
-/* ---------- Navigation / Sidebar / Footer / Buttons remain dark ---------- */
+/* ---------- Sidebar / Navigation / Footer / Buttons — always black ---------- */
+.sidebar a,
 .main-navigation a,
 .social-icons a,
 .page__footer a,
 .hero-button {
-  color: inherit; /* do not use accent color here */
+  color: #000000;      /* always black */
+}
+
+.sidebar a:hover,
+.main-navigation a:hover,
+.social-icons a:hover,
+.page__footer a:hover,
+.hero-button:hover {
+  color: #000000;      /* no hover color change */
+}
+
+.sidebar i,
+.social-icons i {
+  vertical-align: middle;
 }
 
 /* ---------- Footer ---------- */
@@ -101,6 +115,7 @@ body.dark {
   color: var(--text);
 }
 
+/* Body content links in dark mode */
 body.dark .page__content a {
   color: var(--accent);
 }
@@ -108,20 +123,20 @@ body.dark .page__content a {
 body.dark .page__content a:hover {
   color: var(--accent-light);
 }
-/* ---------- Sidebar / Navigation Icons Always Black ---------- */
-.sidebar a,
-.main-navigation a,
-.social-icons a {
-  color: #000000;      /* always black */
+
+/* Sidebar, nav, footer, buttons remain black in dark mode */
+body.dark .sidebar a,
+body.dark .main-navigation a,
+body.dark .social-icons a,
+body.dark .page__footer a,
+body.dark .hero-button {
+  color: #000000;
 }
 
-.sidebar a:hover,
-.main-navigation a:hover,
-.social-icons a:hover {
-  color: #000000;      /* no hover color change */
-}
-
-.sidebar i,
-.social-icons i {
-  vertical-align: middle;
+body.dark .sidebar a:hover,
+body.dark .main-navigation a:hover,
+body.dark .social-icons a:hover,
+body.dark .page__footer a:hover,
+body.dark .hero-button:hover {
+  color: #000000;
 }
