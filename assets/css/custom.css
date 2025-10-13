@@ -137,3 +137,23 @@ body.dark div.page__content a:hover {
   color: var(--accent-light) !important;
   text-decoration: underline;
 }
+
+/* Force main body content links to blue */
+.page__content a,
+.page__content p a,
+.page__content li a,
+article a,
+main a {
+  color: #0059b3 !important;
+  text-decoration: none !important;
+}
+
+.page__content a:hover,
+.page__content p a:hover,
+.page__content li a:hover,
+article a:hover,
+main a:hover {
+  color: #3385d6 !important;
+  text-decoration: underline !important;
+}
+
