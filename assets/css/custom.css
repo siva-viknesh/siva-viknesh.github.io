@@ -1,13 +1,13 @@
 /* ======================================
-   CUSTOM STYLE — IndigoBlue Theme
+   CUSTOM STYLE — Indigo-Blue Only in Body Links
    ====================================== */
 
 /* ---------- Light Theme ---------- */
 :root {
   --bg: #ffffff;          /* page background */
   --text: #1e293b;        /* default text */
-  --accent: #003366;      /* Indigo Blue */
-  --accent-light: #336699;/* lighter Indigo Blue for hover */
+  --accent: #0059b3;      /* Indigo Blue for body content links */
+  --accent-light: #3385d6;/* lighter for hover */
   --muted: #94a3b8;       /* secondary text */
   --code-bg: #f1f5f9;     /* code block background */
 }
@@ -28,40 +28,39 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text);
 }
 
-/* ---------- Links (content, nav, footer, hero) ---------- */
-a,
-.page__content a,
-.page__hero a,
-.page__footer a,
-.main-navigation a {
-  color: var(--accent) !important;
-  text-decoration: none !important;
+/* ---------- General text ---------- */
+p, li, span, blockquote, strong, em {
+  color: var(--text);
+}
+
+/* ---------- Links inside body content ONLY ---------- */
+.page__content a {
+  color: var(--accent);
+  text-decoration: none;
   transition: color 0.2s ease-in-out;
 }
 
-a:hover,
-.page__content a:hover,
-.page__hero a:hover,
-.page__footer a:hover,
-.main-navigation a:hover {
-  color: var(--accent-light) !important;
-  text-decoration: underline !important;
+.page__content a:hover {
+  color: var(--accent-light);
+  text-decoration: underline;
+}
+
+/* ---------- Navigation / Sidebar / Footer / Buttons remain dark ---------- */
+.main-navigation a,
+.social-icons a,
+.page__footer a,
+.hero-button {
+  color: inherit; /* do not use accent color here */
 }
 
 /* ---------- Footer ---------- */
-.page__footer {
-  background: var(--accent);
-  color: #ffffff;
-  padding: 2rem 1rem;
+.page__footer-note {
+  font-size: 0.85rem;
+  color: #1e293b;       /* dark text */
+  line-height: 1.4;
   text-align: center;
-}
-
-.page__footer a {
-  color: #ffffff !important;
-}
-
-.page__footer a:hover {
-  color: var(--accent-light) !important;
+  padding: 1.5rem 0;
+  background: transparent; /* no background */
 }
 
 /* ---------- Layout width ---------- */
@@ -84,31 +83,15 @@ pre, code {
   padding: 0.2rem 0.4rem;
   font-family: "Fira Code", monospace;
   font-size: 0.95rem;
-}
-
-/* ---------- Hero Section Buttons ---------- */
-.hero-button {
-  display: inline-block;
-  background-color: var(--accent);
-  color: #ffffff;
-  padding: 0.6rem 1.2rem;
-  margin-right: 0.5rem;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: 500;
-  transition: background 0.3s;
-}
-
-.hero-button:hover {
-  background-color: var(--accent-light);
+  color: var(--text);
 }
 
 /* ---------- Dark Theme ---------- */
 body.dark {
   --bg: #0f172a;
   --text: #e2e8f0;
-  --accent: #336699;
-  --accent-light: #5b87b0;
+  --accent: #3385d6;       /* Indigo Blue for body links in dark mode */
+  --accent-light: #66a3ff; /* lighter on hover */
   --muted: #64748b;
   --code-bg: #1e293b;
 }
@@ -118,23 +101,10 @@ body.dark {
   color: var(--text);
 }
 
-body.dark a,
-body.dark .page__content a,
-body.dark .page__hero a,
-body.dark .page__footer a,
-body.dark .main-navigation a {
-  color: var(--accent-light) !important;
+body.dark .page__content a {
+  color: var(--accent);
 }
 
-body.dark a:hover,
-body.dark .page__content a:hover,
-body.dark .page__hero a:hover,
-body.dark .page__footer a:hover,
-body.dark .main-navigation a:hover {
-  color: var(--accent) !important;
-}
-
-body.dark .page__footer {
-  background: var(--accent-light);
-  color: #0f172a;
+body.dark .page__content a:hover {
+  color: var(--accent-light);
 }
