@@ -1,15 +1,15 @@
 /* ======================================
-   CUSTOM STYLE — IndigoBlue Theme
+   CUSTOM STYLE — Dodger Blue Theme
    ====================================== */
 
 /* ---------- Light Theme ---------- */
 :root {
-  --bg: #ffffff;           /* page background */
-  --text: #1e293b;         /* default text */
-  --accent: #1e90fc;       /* Dodger Blue */
-  --accent-light: #63b3ff; /* lighter blue for hover */
-  --muted: #94a3b8;        /* secondary text */
-  --code-bg: #f1f5f9;      /* code block background */
+  --bg: #ffffff;          /* page background */
+  --text: #1e293b;        /* default text */
+  --accent: #0059b3;      /* stronger Indigo-Blue */
+  --accent-light: #3385d6;/* lighter for hover */
+  --muted: #94a3b8;       /* secondary text */
+  --code-bg: #f1f5f9;     /* code block background */
 }
 
 /* ---------- Base body styling ---------- */
@@ -25,10 +25,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto Slab", serif;
   font-weight: 700;
-  color: var(--text);
+  color: var(--text); /* keep headings dark */
 }
 
-/* ---------- Links (content, nav, footer, hero) ---------- */
+/* ---------- Links ---------- */
 a,
 .page__content a,
 .page__hero a,
@@ -54,6 +54,7 @@ a:hover,
   color: #ffffff;
   padding: 2rem 1rem;
   text-align: center;
+  font-size: 0.9rem;
 }
 
 .page__footer a {
@@ -61,6 +62,33 @@ a:hover,
 }
 
 .page__footer a:hover {
+  color: var(--accent-light) !important;
+}
+
+/* ---------- Footer Icons ---------- */
+.page__footer-follow {
+  margin-bottom: 1rem;
+}
+
+.page__footer-follow ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+  gap: 1rem;
+}
+
+.page__footer-follow li {
+  display: inline;
+}
+
+.page__footer-follow a {
+  color: #ffffff !important;
+  font-size: 1.2rem;
+  transition: color 0.3s;
+}
+
+.page__footer-follow a:hover {
   color: var(--accent-light) !important;
 }
 
@@ -84,6 +112,7 @@ pre, code {
   padding: 0.2rem 0.4rem;
   font-family: "Fira Code", monospace;
   font-size: 0.95rem;
+  color: var(--text);
 }
 
 /* ---------- Hero Section Buttons ---------- */
@@ -107,8 +136,8 @@ pre, code {
 body.dark {
   --bg: #0f172a;
   --text: #e2e8f0;
-  --accent: #336699;
-  --accent-light: #5b87b0;
+  --accent: #63b3ff;       /* Dodger Blue in dark mode */
+  --accent-light: #90cdf4; /* lighter blue hover in dark mode */
   --muted: #64748b;
   --code-bg: #1e293b;
 }
@@ -123,18 +152,15 @@ body.dark .page__content a,
 body.dark .page__hero a,
 body.dark .page__footer a,
 body.dark .main-navigation a {
-  color: var(--accent-light) !important;
+  color: var(--accent) !important;
 }
 
 body.dark a:hover,
 body.dark .page__content a:hover,
 body.dark .page__hero a:hover,
 body.dark .page__footer a:hover,
-body.dark .main-navigation a:hover {
-  color: var(--accent) !important;
-}
-
-body.dark .page__footer {
-  background: var(--accent-light);
-  color: #0f172a;
+body.dark .main-navigation a:hover,
+.hero-button:hover {
+  color: var(--accent-light) !important;
+  background-color: var(--accent-light) !important;
 }
