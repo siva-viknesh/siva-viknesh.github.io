@@ -4,12 +4,12 @@
 
 /* ---------- Light Theme ---------- */
 :root {
-  --bg: #ffffff;          /* page background */
-  --text: #1e293b;        /* default text */
-  --accent: #0059b3;      /* slightly lighter Indigo */
-  --accent-light: #336699;/* lighter Indigo for hover */
-  --muted: #94a3b8;       /* secondary text */
-  --code-bg: #f1f5f9;     /* code block background */
+  --bg: #ffffff;           /* page background */
+  --text: #1e293b;         /* default text */
+  --accent: #1e90fc;       /* Dodger Blue */
+  --accent-light: #63b3ff; /* lighter blue for hover */
+  --muted: #94a3b8;        /* secondary text */
+  --code-bg: #f1f5f9;      /* code block background */
 }
 
 /* ---------- Base body styling ---------- */
