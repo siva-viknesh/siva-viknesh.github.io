@@ -17,7 +17,7 @@ redirect_from:
 </p>
 
 
-  <p>🎓 <strong>EDUCATION:</strong> I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.  </p>
+  <p>🎓 <strong>Education:</strong> I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.  </p>
   <p>📚 See my <a href="/files/Siva_Resume.pdf"><strong>CV here</strong></a>.</p>
 </div>
 ## 🔬 Academic Research
