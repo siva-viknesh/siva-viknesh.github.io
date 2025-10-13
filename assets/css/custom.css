@@ -7,7 +7,7 @@
   --bg: #ffffff;          /* page background */
   --text: #1e293b;        /* default text */
   --accent: #0059b3;      /* Indigo Blue for body content links */
-  --accent-light: #3385d6;/* lighter for hover */
+  --accent-light: #3385d6;/* lighter on hover */
   --muted: #94a3b8;       /* secondary text */
   --code-bg: #f1f5f9;     /* code block background */
 }
@@ -33,29 +33,29 @@ p, li, span, blockquote, strong, em {
   color: var(--text);
 }
 
-/* ---------- Links inside body content ONLY ---------- */
+/* ---------- Body Content Links ONLY ---------- */
 main a,
-.post-content a,
-.page__content a {
+article a,
+div:not(.sidebar) a {
   color: var(--accent);
   text-decoration: none;
   transition: color 0.2s ease-in-out;
 }
 
 main a:hover,
-.post-content a:hover,
-.page__content a:hover {
+article a:hover,
+div:not(.sidebar) a:hover {
   color: var(--accent-light);
   text-decoration: underline;
 }
 
-/* ---------- Sidebar / Navigation / Footer / Buttons — always black ---------- */
+/* ---------- Sidebar / Navigation / Footer / Buttons ---------- */
 .sidebar a,
 .main-navigation a,
 .social-icons a,
 .page__footer a,
 .hero-button {
-  color: #000000;      /* always black */
+  color: #000000 !important; /* always black */
 }
 
 .sidebar a:hover,
@@ -63,7 +63,7 @@ main a:hover,
 .social-icons a:hover,
 .page__footer a:hover,
 .hero-button:hover {
-  color: #000000;      /* no hover color change */
+  color: #000000 !important; /* no hover change */
 }
 
 .sidebar i,
@@ -71,7 +71,7 @@ main a:hover,
   vertical-align: middle;
 }
 
-/* ---------- Footer ---------- */
+/* ---------- Footer Note ---------- */
 .page__footer-note {
   font-size: 0.85rem;
   color: #1e293b;       /* dark text */
@@ -108,7 +108,7 @@ pre, code {
 body.dark {
   --bg: #0f172a;
   --text: #e2e8f0;
-  --accent: #3385d6;       /* Indigo Blue for body links in dark mode */
+  --accent: #3385d6;       /* Indigo-blue for body content links in dark mode */
   --accent-light: #66a3ff; /* lighter on hover */
   --muted: #64748b;
   --code-bg: #1e293b;
@@ -119,32 +119,14 @@ body.dark {
   color: var(--text);
 }
 
-/* Body content links in dark mode */
 body.dark main a,
-body.dark .post-content a,
-body.dark .page__content a {
+body.dark article a,
+body.dark div:not(.sidebar) a {
   color: var(--accent);
 }
 
 body.dark main a:hover,
-body.dark .post-content a:hover,
-body.dark .page__content a:hover {
+body.dark article a:hover,
+body.dark div:not(.sidebar) a:hover {
   color: var(--accent-light);
-}
-
-/* Sidebar, nav, footer, buttons remain black in dark mode */
-body.dark .sidebar a,
-body.dark .main-navigation a,
-body.dark .social-icons a,
-body.dark .page__footer a,
-body.dark .hero-button {
-  color: #000000;
-}
-
-body.dark .sidebar a:hover,
-body.dark .main-navigation a:hover,
-body.dark .social-icons a:hover,
-body.dark .page__footer a:hover,
-body.dark .hero-button:hover {
-  color: #000000;
 }
