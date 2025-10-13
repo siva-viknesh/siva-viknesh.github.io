@@ -12,15 +12,6 @@
   --code-bg: #f1f5f9;     /* code block background */
 }
 
-/* ---------- Dark Theme ---------- */
-body.dark {
-  --bg: #0f172a;          /* dark background */
-  --text: #e2e8f0;        /* light text */
-  --accent: #336699;      /* Indigo Blue for dark mode */
-  --accent-light: #5b87b0;/* lighter Indigo Blue */
-  --muted: #64748b;
-  --code-bg: #1e293b;
-}
 
 /* Base body styling */
 body {
