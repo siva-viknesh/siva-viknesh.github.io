@@ -1,5 +1,5 @@
 /* ======================================
-   CUSTOM STYLE — Siva Viknesh Site
+   CUSTOM STYLE — IndigoBlue Theme
    ====================================== */
 
 /* ---------- Light Theme ---------- */
@@ -12,8 +12,7 @@
   --code-bg: #f1f5f9;     /* code block background */
 }
 
-
-/* Base body styling */
+/* ---------- Base body styling ---------- */
 body {
   background-color: var(--bg);
   color: var(--text);
@@ -22,45 +21,63 @@ body {
   transition: background 0.3s, color 0.3s;
 }
 
-/* Headings */
+/* ---------- Headings ---------- */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto Slab", serif;
   font-weight: 700;
   color: var(--text);
 }
 
-/* Links */
-a {
-  color: var(--accent);
+/* ---------- Links (content, nav, footer, hero) ---------- */
+a,
+.page__content a,
+.page__hero a,
+.page__footer a,
+.main-navigation a {
+  color: var(--accent) !important;
+  text-decoration: none !important;
   transition: color 0.2s ease-in-out;
 }
 
-a:hover {
-  color: var(--accent-light);
-  text-decoration: underline;
+a:hover,
+.page__content a:hover,
+.page__hero a:hover,
+.page__footer a:hover,
+.main-navigation a:hover {
+  color: var(--accent-light) !important;
+  text-decoration: underline !important;
 }
 
-/* Footer */
+/* ---------- Footer ---------- */
 .page__footer {
   background: var(--accent);
-  color: #fff;
-  transition: background 0.3s, color 0.3s;
+  color: #ffffff;
+  padding: 2rem 1rem;
+  text-align: center;
 }
 
-/* Layout width */
+.page__footer a {
+  color: #ffffff !important;
+}
+
+.page__footer a:hover {
+  color: var(--accent-light) !important;
+}
+
+/* ---------- Layout width ---------- */
 .page__content,
 .page__hero--overlay .wrapper,
 .wrapper {
-  max-width: 980px; /* slightly wider than default */
+  max-width: 980px;
   margin: auto;
 }
 
-/* Paragraph spacing */
+/* ---------- Paragraph spacing ---------- */
 .page__content p {
   margin-bottom: 1.2rem;
 }
 
-/* Code blocks */
+/* ---------- Code blocks ---------- */
 pre, code {
   background: var(--code-bg);
   border-radius: 6px;
@@ -69,12 +86,29 @@ pre, code {
   font-size: 0.95rem;
 }
 
+/* ---------- Hero Section Buttons ---------- */
+.hero-button {
+  display: inline-block;
+  background-color: var(--accent);
+  color: #ffffff;
+  padding: 0.6rem 1.2rem;
+  margin-right: 0.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.3s;
+}
+
+.hero-button:hover {
+  background-color: var(--accent-light);
+}
+
 /* ---------- Dark Theme ---------- */
 body.dark {
   --bg: #0f172a;
   --text: #e2e8f0;
-  --accent: #818cf8;
-  --accent-light: #a5b4fc;
+  --accent: #336699;
+  --accent-light: #5b87b0;
   --muted: #64748b;
   --code-bg: #1e293b;
 }
@@ -84,8 +118,20 @@ body.dark {
   color: var(--text);
 }
 
-body.dark a {
-  color: var(--accent-light);
+body.dark a,
+body.dark .page__content a,
+body.dark .page__hero a,
+body.dark .page__footer a,
+body.dark .main-navigation a {
+  color: var(--accent-light) !important;
+}
+
+body.dark a:hover,
+body.dark .page__content a:hover,
+body.dark .page__hero a:hover,
+body.dark .page__footer a:hover,
+body.dark .main-navigation a:hover {
+  color: var(--accent) !important;
 }
 
 body.dark .page__footer {
