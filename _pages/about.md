@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="about-section">
 
-  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Mechanical Engineering Department at The University of Utah, advised by Dr. Amirhossein Arzani. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.</p>
+  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging Institute and the Mechanical Engineering Department at The University of Utah, advised by Dr. Amirhossein Arzani. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.</p>
 
   <p>🔬 <strong>Research Interests:</strong> Scientific Machine Learning, Computational Fluid Mechanics, Unsteady Aerodynamics, and Wildfire Dynamics.</p>
 
@@ -28,7 +28,7 @@ redirect_from:
 
   <h3>🔥 Wildfire Dynamics:</h3>
   <ul>
-    <li>Identified two <a href="https://arxiv.org/abs/2411.04007v2"><strong>new Non-dimensional Numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction.</li>
+    <li>Identified two <a href="https://arxiv.org/abs/2411.04007v2"><strong>New Non-dimensional Numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction.</li>
   </ul>
 
   <h3>🛩️ Pitching Airfoil:</h3>
