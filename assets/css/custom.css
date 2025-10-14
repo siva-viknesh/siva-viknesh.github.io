@@ -35,55 +35,23 @@ p, li, span, blockquote, strong, em {
 
 /* ---------- Body Content Links ONLY ---------- */
 .page__content a,
-article a,
 main a,
+article a,
 div.page__content a {
   color: var(--accent) !important;
   text-decoration: none;
   transition: color 0.2s ease-in-out;
 }
 
-/* =========================================================
-   FORCE body content links to blue (only inside main content)
-   ========================================================= */
-
-/* Regular link style */
-.page__content a:not(.btn):not(.social-icons a),
-main a:not(.btn):not(.social-icons a),
-article a:not(.btn):not(.social-icons a) {
-  color: #0059b3 !important;
-  text-decoration: none !important;
-  transition: color 0.2s ease-in-out;
-}
-
-/* Hover effect */
-.page__content a:hover:not(.btn):not(.social-icons a),
-main a:hover:not(.btn):not(.social-icons a),
-article a:hover:not(.btn):not(.social-icons a) {
-  color: #3385d6 !important;
+.page__content a:hover,
+main a:hover,
+article a:hover,
+div.page__content a:hover {
+  color: var(--accent-light) !important;
   text-decoration: underline !important;
 }
 
-/* Everything else (nav, footer, headings, buttons) stays black */
-.sidebar a,
-.main-navigation a,
-.social-icons a,
-.page__footer a,
-.hero-button,
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: #000000 !important;
-}
-
-
-.page__content a:hover,
-article a:hover,
-main a:hover,
-div.page__content a:hover {
-  color: var(--accent-light) !important;
-  text-decoration: underline;
-}
-
-/* ---------- Everything else remains black ---------- */
+/* ---------- Everything else stays black ---------- */
 .sidebar a,
 .main-navigation a,
 .social-icons a,
@@ -170,13 +138,14 @@ body.dark div.page__content a:hover {
   text-decoration: underline;
 }
 
-/* General text layout for About page */
-.about-section {
+/* ---------- About Page text layout ---------- */
+.about-section,
+.page__content {
   text-align: justify;
   line-height: 1.6;
 }
 
-/* Two-column responsive grid for project lists */
+/* ---------- Two-column responsive grid for project lists ---------- */
 .project-grid {
   display: flex;
   flex-wrap: wrap;
@@ -192,16 +161,16 @@ body.dark div.page__content a:hover {
   min-width: 250px;
 }
 
-/* Links: blue only inside main body content */
-.page__content a {
-  color: #0059b3 !important;
-  text-decoration: none !important;
-  transition: color 0.2s ease-in-out;
+.project-grid ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
-.page__content a:hover {
-  color: #3385d6 !important;
-  text-decoration: underline !important;
+.project-grid li {
+  margin-bottom: 0.6rem;
 }
 
-
+.project-grid a strong {
+  font-weight: 600;
+}
