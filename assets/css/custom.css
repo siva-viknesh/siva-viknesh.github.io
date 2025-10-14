@@ -121,7 +121,7 @@ h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover {
 .page__content,
 .page__hero--overlay .wrapper,
 .wrapper {
-  max-width: 1200px;
+  max-width: 1300px;
   margin: auto;
 }
 
@@ -171,20 +171,32 @@ body.dark div.page__content a:hover {
 }
 
 /* Force main body content links to blue */
-.page__content a,
-.page__content p a,
-.page__content li a,
-article a,
-main a {
-  color: #0059b3 !important;
+/* =========================================================
+   FINAL FIX — Blue only for body text links, rest black
+   ========================================================= */
+
+/* Step 1: Make everything black by default */
+a {
+  color: #000000 !important;
   text-decoration: none !important;
 }
 
+/* Step 2: Re-enable blue ONLY inside main content */
+.page__content a,
+main a,
+article a,
+.page-content a,
+.content a {
+  color: #0059b3 !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease-in-out;
+}
+
 .page__content a:hover,
-.page__content p a:hover,
-.page__content li a:hover,
+main a:hover,
 article a:hover,
-main a:hover {
+.page-content a:hover,
+.content a:hover {
   color: #3385d6 !important;
   text-decoration: underline !important;
 }
