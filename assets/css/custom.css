@@ -43,6 +43,38 @@ div.page__content a {
   transition: color 0.2s ease-in-out;
 }
 
+/* =========================================================
+   FORCE body content links to blue (only inside main content)
+   ========================================================= */
+
+/* Regular link style */
+.page__content a:not(.btn):not(.social-icons a),
+main a:not(.btn):not(.social-icons a),
+article a:not(.btn):not(.social-icons a) {
+  color: #0059b3 !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease-in-out;
+}
+
+/* Hover effect */
+.page__content a:hover:not(.btn):not(.social-icons a),
+main a:hover:not(.btn):not(.social-icons a),
+article a:hover:not(.btn):not(.social-icons a) {
+  color: #3385d6 !important;
+  text-decoration: underline !important;
+}
+
+/* Everything else (nav, footer, headings, buttons) stays black */
+.sidebar a,
+.main-navigation a,
+.social-icons a,
+.page__footer a,
+.hero-button,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  color: #000000 !important;
+}
+
+
 .page__content a:hover,
 article a:hover,
 main a:hover,
