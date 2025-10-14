@@ -176,6 +176,11 @@ body.dark div.page__content a:hover {
    Works for <section class="page__content">
    ========================================================= */
 
+/* =========================================================
+   FINAL FIX — Blue only for body text links, everything else black
+   Works for <section class="page__content">
+   ========================================================= */
+
 /* Step 1: Make all links black by default */
 a {
   color: #000000 !important;
@@ -194,4 +199,5 @@ section.page__content a:hover {
   color: #3385d6 !important;
   text-decoration: underline !important;
 }
+
 
