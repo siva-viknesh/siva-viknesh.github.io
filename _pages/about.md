@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍🎓 **PhD Candidate** in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by **Dr. Amirhossein Arzani**. I am passionate about **Fluid Mechanics** and **Scientific Machine Learning**, developing **Hybrid Physics–ML frameworks** that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.
+<div class="about-section">
+
+👨🏻‍🎓 **PhD Candidate** in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by Dr. Amirhossein Arzani. I am passionate about **Fluid Mechanics** and **Scientific Machine Learning**, developing **Hybrid Physics–ML frameworks** that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.
 
 🔬 **Research Interests:** Scientific Machine Learning, Computational Fluid Mechanics, Unsteady Aerodynamics, and Wildfire Dynamics.
 
-🎓 **Education:** I hold an M.S. in Aerospace Engineering with Aerodynamics major from **IIT Kanpur**, India, where I focused on both **Computational and Experimental Aerodynamics**, and a B.E. in Aeronautical Engineering from **Anna University**, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.  
+🎓 **Education:** I hold an M.S. in Aerospace Engineering with Aerodynamics Major from **IIT Kanpur**, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from **Anna University**, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.  
 
 📚 See my [**CV here**](/files/Siva_Resume.pdf).
 
@@ -21,17 +23,25 @@ redirect_from:
 ## 🔬 Academic Research
 
 **🤖 Scientific Machine Learning:**  
-- [**DIfferentiable Autoencoding Neural Operator (DIANO)**](https://www.arxiv.org/abs/2510.00233) framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers.  
-- [**ADAM-SINDy**](https://arxiv.org/abs/2410.16528), a differentiable optimization framework for identification of Parameterized Nonlinear Dynamical Systems. Check out the [**CRUNCH Seminar Talk**](https://youtu.be/4vTV2xLCOGQ).
+<ul>
+  <li><a href="https://www.arxiv.org/abs/2510.00233"><strong>DIfferentiable Autoencoding Neural Operator (DIANO)</strong></a> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers.</li>
+  <li><a href="https://arxiv.org/abs/2410.16528"><strong>ADAM-SINDy</strong></a>, a differentiable optimization framework for identification of Parameterized Nonlinear Dynamical Systems. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Seminar Talk</strong></a>.</li>
+</ul>
 
 **🔥 Wildfire Dynamics:**  
-- Identified two [**new Non-dimensional Numbers**](https://arxiv.org/abs/2411.04007v2) governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages **stable and unstable manifolds (LCS)** derived from wind topology to improve fire prediction.
+<ul>
+  <li>Identified two <a href="https://arxiv.org/abs/2411.04007v2"><strong>New Non-dimensional Numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models for the first time. Leverages <strong>stable and unstable manifolds (LCS)</strong> derived from wind topology to improve fire prediction.</li>
+</ul>
 
 **🛩️ Pitching Airfoil:**  
-- Identified [**Upstream-convecting vortices**](https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric) (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV & Pressure measurements.
+<ul>
+  <li>Identified <a href="https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric"><strong>Upstream-convecting vortices</strong></a> (vortices advecting against the flow direction) on a pitching airfoil using Time-resolved PIV & Pressure measurements.</li>
+</ul>
 
 **🌪️ Flow Instabilities:**  
-- Sensitivity of [**Multiple Hopf Bifurcations**](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305) and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical schemes and grid resolution.
+<ul>
+  <li>Sensitivity of <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305"><strong>Multiple Hopf Bifurcations</strong></a> and critical Reynolds numbers in lid-driven cavity flow problems, noting the influence of numerical schemes and grid resolution.</li>
+</ul>
 
 📚 For the complete list of my publications, visit my [**Google Scholar Profile**](https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en).
 
@@ -63,4 +73,5 @@ Developed and optimized the following programs/solvers for scientific machine le
 </ul>
 </div>
 
+</div>
 </div>
