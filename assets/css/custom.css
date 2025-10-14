@@ -75,9 +75,12 @@ h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover {
 .page__content,
 .page__hero--overlay .wrapper,
 .wrapper {
-  max-width: 1700px;
-  margin: auto;
+  max-width: 1900px;   /* increase width */
+  margin-left: auto;
+  margin-right: 20px;  /* reduce right margin */
+  padding-left: 20px;  /* optional: small left padding */
 }
+
 
 /* Paragraph spacing */
 .page__content p {
