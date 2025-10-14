@@ -142,39 +142,45 @@ body.dark .page__content a:hover {
 /* -------------------------------
    Two-column Software & Simulations
 ------------------------------- */
+/* Two-column software/project list */
 .project-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
-  margin-top: 1rem;
+  gap: 20px;          /* gap between columns */
+  margin-top: 1.5em;
   width: 100%;
-  padding: 0 10px;
+  padding: 0;
   box-sizing: border-box;
 }
 
+/* Each column */
 .project-grid > div {
   flex: 1 1 45%;
   min-width: 250px;
 }
 
-/* Stack columns on smaller screens */
-@media (max-width: 700px) {
-  .project-grid > div {
-    flex: 1 1 100%;
-    min-width: 100%;
-  }
-}
-
-/* Project list items */
+/* UL inside project-grid */
 .project-grid ul {
-  list-style-type: none;
-  padding: 0;
+  list-style-type: disc;  /* normal bullets */
+  padding-left: 1.2em;    /* natural bullet indent */
   margin: 0;
+  line-height: 1.5;       /* spacing between items */
+  text-align: left;       /* no justified text */
 }
 
+/* LI items */
 .project-grid li {
-  margin-bottom: 0.4rem;
+  margin-bottom: 1.5em;   /* bigger spacing between bullets */
+  transition: transform 0.2s, color 0.2s; /* optional hover effect */
 }
+
+/* Interactive hover effect */
+.project-grid li:hover {
+  transform: translateX(5px); /* slight right shift on hover */
+  color: #0059b3;             /* highlight blue on hover */
+}
+
+
 
 /* Blue links only in body content */
 .page__content a {
