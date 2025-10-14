@@ -163,14 +163,14 @@ body.dark .page__content a:hover {
   list-style-type: disc;
   padding-left: 1.2em;
   margin: 0;
-  line-height: 1.3;       /* smaller line spacing */
+  line-height: 1.1;       /* smaller line spacing */
   text-align: left;
 }
 
 /* LI items with interactive card style */
 .project-grid li {
-  margin-bottom: 0.8rem;  /* reduced spacing between bullets */
-  padding: 0.4em 0.6em;
+  margin-bottom: 0.4rem;  /* reduced spacing between bullets */
+  padding: 0.2em 0.4em;
   border-radius: 6px;
   transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
 }
