@@ -10,11 +10,11 @@ redirect_from:
 
 <div class="about-section">
 
-  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Department of Mechanical Engineering at the University of Utah, advised by <strong>Dr. Amirhossein Arzani</strong>. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.</p>
+  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging (SCI) Institute and the Mechanical Engineering Department at The University of Utah, advised by Dr. Amirhossein Arzani. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.</p>
 
   <p>🔬 <strong>Research Interests:</strong> Scientific Machine Learning, Computational Fluid Mechanics, Unsteady Aerodynamics, and Wildfire Dynamics.</p>
 
-  <p>🎓 <strong>Education:</strong> I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both <strong>Computational and Experimental Aerodynamics</strong>, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.</p>
+  <p>🎓 <strong>Education:</strong> I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.</p>
 
   <p>📚 See my <a href="/files/Siva_Resume.pdf"><strong>CV here</strong></a>.</p>
 
