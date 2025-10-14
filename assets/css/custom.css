@@ -4,15 +4,15 @@
 
 /* ---------- Light Theme ---------- */
 :root {
-  --bg: #ffffff;          /* page background */
-  --text: #000000;        /* default text in black */
-  --accent: #0059b3;      /* Indigo Blue for body content links */
-  --accent-light: #3385d6;/* lighter on hover */
-  --muted: #94a3b8;       /* secondary text */
-  --code-bg: #f1f5f9;     /* code block background */
+  --bg: #ffffff;
+  --text: #000000;
+  --accent: #0059b3;
+  --accent-light: #3385d6;
+  --muted: #94a3b8;
+  --code-bg: #f1f5f9;
 }
 
-/* ---------- Base body styling ---------- */
+/* Base body styling */
 body {
   background-color: var(--bg);
   color: var(--text);
@@ -21,44 +21,33 @@ body {
   transition: background 0.3s, color 0.3s;
 }
 
-/* ---------- Headings ---------- */
+/* Headings */
 h1,h2,h3,h4,h5,h6 {
   font-family: "Roboto Slab", serif;
   font-weight: 700;
   color: var(--text);
 }
 
-/* ---------- General text ---------- */
-p, li, span, blockquote, strong, em {
-  color: var(--text);
-}
-
-/* ---------- Body Content Links ONLY ---------- */
-.page__content a,
-main a,
-article a,
-div.page__content a {
+/* Body content links ONLY */
+.page__content a {
   color: var(--accent) !important;
-  text-decoration: none;
+  text-decoration: none !important;
   transition: color 0.2s ease-in-out;
 }
 
-.page__content a:hover,
-main a:hover,
-article a:hover,
-div.page__content a:hover {
+.page__content a:hover {
   color: var(--accent-light) !important;
   text-decoration: underline !important;
 }
 
-/* ---------- Everything else stays black ---------- */
+/* Everything else stays black */
 .sidebar a,
 .main-navigation a,
 .social-icons a,
 .page__footer a,
 .hero-button,
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {
-  color: #000000 !important;
+  color: #000 !important;
 }
 
 .sidebar a:hover,
@@ -67,25 +56,20 @@ h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {
 .page__footer a:hover,
 .hero-button:hover,
 h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover {
-  color: #000000 !important;
+  color: #000 !important;
 }
 
-.sidebar i,
-.social-icons i {
-  vertical-align: middle;
-}
-
-/* ---------- Footer Note ---------- */
+/* Footer note */
 .page__footer-note {
   font-size: 0.85rem;
-  color: #000000;
+  color: #000;
   line-height: 1.4;
   text-align: center;
   padding: 1.5rem 0;
   background: transparent;
 }
 
-/* ---------- Layout width ---------- */
+/* Layout width */
 .page__content,
 .page__hero--overlay .wrapper,
 .wrapper {
@@ -93,12 +77,12 @@ h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover {
   margin: auto;
 }
 
-/* ---------- Paragraph spacing ---------- */
+/* Paragraph spacing */
 .page__content p {
   margin-bottom: 1.2rem;
 }
 
-/* ---------- Code blocks ---------- */
+/* Code blocks */
 pre, code {
   background: var(--code-bg);
   border-radius: 6px;
@@ -108,7 +92,7 @@ pre, code {
   color: var(--text);
 }
 
-/* ---------- Dark Theme ---------- */
+/* Dark Theme */
 body.dark {
   --bg: #0f172a;
   --text: #e2e8f0;
@@ -123,29 +107,28 @@ body.dark {
   color: var(--text);
 }
 
-body.dark .page__content a,
-body.dark article a,
-body.dark main a,
-body.dark div.page__content a {
-  color: var(--accent) !important;
-}
-
-body.dark .page__content a:hover,
-body.dark article a:hover,
-body.dark main a:hover,
-body.dark div.page__content a:hover {
+body.dark .page__content a:hover {
   color: var(--accent-light) !important;
   text-decoration: underline;
 }
 
-/* ---------- About Page text layout ---------- */
+/* About page text layout */
 .about-section,
 .page__content {
   text-align: justify;
   line-height: 1.6;
 }
 
-/* ---------- Two-column responsive grid for project lists ---------- */
+/* Academic research bullets justified */
+.page__content ul,
+.page__content li {
+  text-align: justify;
+  line-height: 1.6;
+  margin-bottom: 0.6rem;
+  padding-left: 1.2em;
+}
+
+/* Two-column responsive grid for software projects */
 .project-grid {
   display: flex;
   flex-wrap: wrap;
@@ -169,8 +152,4 @@ body.dark div.page__content a:hover {
 
 .project-grid li {
   margin-bottom: 0.6rem;
-}
-
-.project-grid a strong {
-  font-weight: 600;
 }
