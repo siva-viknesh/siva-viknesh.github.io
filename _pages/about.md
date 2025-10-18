@@ -2,7 +2,7 @@
 permalink: /
 title: "👋🏼 Hello there, I'm Viknesh!"
 excerpt: "About me"
-author_profile: True
+author_profile: False
 redirect_from: 
   - /about/
   - /about.html
