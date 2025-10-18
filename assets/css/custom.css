@@ -222,3 +222,20 @@ body.dark .page__content a:hover {
   color: #3385d6 !important;
   text-decoration: underline !important;
 }
+
+
+/* === Custom width override for Minimal Mistakes === */
+.layout--single .page__inner-wrap,
+.page,
+.page__content {
+  max-width: 2000px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+}
+
+.masthead,
+.page__hero,
+.author__avatar,
+.author__content {
+  max-width: 2000px !important;
+}
