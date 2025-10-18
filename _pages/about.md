@@ -8,6 +8,28 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Header: Photo on Left, Details on Right -->
+<div style="display:flex; align-items:center; gap:30px; margin-bottom:20px; flex-wrap:wrap;">
+
+  <!-- Profile Photo -->
+  <div style="flex-shrink:0;">
+    <img src="/assets/images/pic_0.jpg" alt="Siva Viknesh Profile Photo" style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+  </div>
+
+  <!-- Details -->
+  <div style="flex:1; min-width:250px;">
+    <h1>👋🏼 Hello, I'm Siva Viknesh!</h1>
+    <p>PhD Candidate, Scientific Computing & Imaging Institute & Mechanical Engineering, University of Utah</p>
+    <p style="margin-top:10px;">
+      <a href="https://www.linkedin.com/in/siva-viknesh/" target="_blank">LinkedIn</a> | 
+      <a href="https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en" target="_blank">Google Scholar</a> | 
+      <a href="https://orcid.org/my-orcid?orcid=0000-0002-9455-9555" target="_blank">ORCID</a> | 
+      <a href="https://github.com/siva-viknesh" target="_blank">GitHub</a>
+    </p>
+  </div>
+
+</div>
+
 <div class="about-section">
 
   <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging Institute and the Mechanical Engineering Department at The University of Utah. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.</p>
