@@ -240,17 +240,3 @@ body.dark .page__content a:hover {
   max-width: 2000px !important;
 }
 
-/* Keep author sidebar at a fixed width */
-.sidebar,
-.author__profile {
-  max-width: 280px !important;
-  width: 280px !important;
-}
-
-/* Make sure main content fills the rest of the space nicely */
-.page__inner-wrap {
-  display: grid !important;
-  grid-template-columns: 280px 1fr;
-  gap: 2rem;
-}
-
