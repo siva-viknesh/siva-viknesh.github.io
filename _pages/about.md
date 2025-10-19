@@ -24,7 +24,7 @@ redirect_from:
   <!-- Details -->
   <div style="flex:1; min-width:260px;">
     <h1 style="margin-bottom:5px;">👋🏼 Hello, I'm <strong>Siva Viknesh</strong>!</h1>
-    <p style="margin:5px 0;"><strong>PhD Candidate</strong> in the Scientific Computing & Imaging Institute and the Mechanical Engineering Department at The University of Utah, Salt Lake City, Utah, USA.</p>
+    <p style="margin:5px 0;">Passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.</p>
 
     <!-- Social Links with Icons -->
     <p style="margin-top:15px; font-size:1.3em; padding-left:100px;">
@@ -57,7 +57,7 @@ redirect_from:
 
 <div class="about-section">
 
-  <p>👨🏻‍🎓 Passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.</p>
+  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging Institute and the Mechanical Engineering Department at The University of Utah, Salt Lake City, Utah, USA.</p>
 
   <p>🔬 <strong>Research Interests:</strong> Scientific Machine Learning, Computational Fluid Mechanics, Unsteady Aerodynamics, and Wildfire Dynamics.</p>
 
