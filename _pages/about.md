@@ -26,8 +26,7 @@ redirect_from:
     <p style="margin:5px 0;"><strong>PhD Candidate</strong> in the Scientific Computing & Imaging Institute and the Mechanical Engineering Department at The University of Utah, Salt Lake City, Utah, USA.</p>
 
     <!-- Social Links with Icons -->
-    <p style="margin-top:15px; font-size:1.3em; padding-left:30px;">
-
+    <p style="margin-top:15px; font-size:1.3em; padding-left:100px;">
       <a href="https://www.linkedin.com/in/siva-viknesh/" target="_blank" title="LinkedIn" style="margin-right:18px; color:#0077b5;">
         <i class="fab fa-linkedin"></i>
       </a>
