@@ -11,13 +11,13 @@ redirect_from:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <!-- Header: Photo Left, Details Right -->
-<div style="display:flex; align-items:center; gap:40px; margin-bottom:30px; flex-wrap:wrap;">
+<div style="display:flex; align-items:center; gap:35px; margin-bottom:30px; flex-wrap:wrap;">
 
   <!-- Profile Photo -->
   <div style="flex-shrink:0;">
     <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_0.jpg" 
          alt="Siva Viknesh Profile Photo" 
-         style="width:160px; height:160px; border-radius:50%; object-fit:cover; border:4px solid #000; box-shadow:0 3px 8px rgba(0,0,0,0.25);">
+         style="width:140px; height:140px; border-radius:50%; object-fit:cover; border:3px solid #999; box-shadow:0 3px 8px rgba(0,0,0,0.15);">
   </div>
 
   <!-- Details -->
@@ -34,11 +34,17 @@ redirect_from:
       <a href="https://github.com/siva-viknesh" target="_blank" title="GitHub" style="margin-right:18px; color:#333;">
         <i class="fab fa-github"></i>
       </a>
-      <a href="https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en" target="_blank" title="Google Scholar" style="margin-right:18px; color:#4285F4;">
-        <i class="fa-solid fa-graduation-cap"></i>
+      <a href="https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en" target="_blank" title="Google Scholar" style="margin-right:18px; color:#DB4437;">
+        <i class="fab fa-google"></i>
       </a>
       <a href="https://orcid.org/0000-0002-9455-9555" target="_blank" title="ORCID" style="margin-right:18px; color:#A6CE39;">
         <i class="fa-brands fa-orcid"></i>
+      </a>
+      <a href="mailto:siva.viknesh@sci.utah.edu" title="Email" style="margin-right:18px; color:#EA4335;">
+        <i class="fas fa-envelope"></i>
+      </a>
+      <a href="https://sci.utah.edu/people/siva-viknesh/" target="_blank" title="School Website" style="margin-right:18px; color:#1a73e8;">
+        <i class="fas fa-globe"></i>
       </a>
     </p>
   </div>
@@ -46,6 +52,7 @@ redirect_from:
 </div>
 
 <hr style="margin:30px 0;">
+
 
 
 <div class="about-section">
