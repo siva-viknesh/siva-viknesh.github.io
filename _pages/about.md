@@ -17,14 +17,13 @@ redirect_from:
   <div style="flex-shrink:0;">
     <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_0.jpg" 
          alt="Siva Viknesh Profile Photo" 
-         style="width:140px; height:140px; border-radius:50%; object-fit:cover; border:3px solid #999; box-shadow:0 3px 8px rgba(0,0,0,0.15);">
+         style="width:160px; height:160px; border-radius:50%; object-fit:cover; border:1px solid #999; box-shadow:0 3px 8px rgba(0,0,0,0.15);">
   </div>
 
   <!-- Details -->
   <div style="flex:1; min-width:260px;">
     <h1 style="margin-bottom:5px;">👋🏼 Hello, I'm <strong>Siva Viknesh</strong>!</h1>
-    <p style="margin:5px 0;">PhD Candidate, Scientific Computing & Imaging Institute & Mechanical Engineering, University of Utah</p>
-    <p style="margin:10px 0;">Salt Lake City, Utah, USA</p>
+    <p style="margin:5px 0;"><strong>PhD Candidate</strong> in the Scientific Computing & Imaging Institute and the Mechanical Engineering Department at The University of Utah, Salt Lake City, Utah, USA.</p>
 
     <!-- Social Links with Icons -->
     <p style="margin-top:15px; font-size:1.3em;">
@@ -57,7 +56,7 @@ redirect_from:
 
 <div class="about-section">
 
-  <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging Institute and the Mechanical Engineering Department at The University of Utah. I am passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.</p>
+  <p>👨🏻‍🎓 Passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that integrate physics models and data-driven methods to solve spatio-temporal engineering flow problems, while being both scientifically rigorous and practically useful.</p>
 
   <p>🔬 <strong>Research Interests:</strong> Scientific Machine Learning, Computational Fluid Mechanics, Unsteady Aerodynamics, and Wildfire Dynamics.</p>
 
