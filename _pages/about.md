@@ -13,7 +13,7 @@ redirect_from:
 
   <!-- Profile Photo -->
   <div style="flex-shrink:0;">
-    <img src="/assets/images/pic_0.jpg" alt="Siva Viknesh Profile Photo" style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+    <img src="https://github.com/siva-viknesh/siva-viknesh.github.io/tree/master/images/pic_0.jpg" alt="Siva Viknesh Profile Photo" style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
   </div>
 
   <!-- Details -->
