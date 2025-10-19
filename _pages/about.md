@@ -39,7 +39,7 @@ redirect_from:
       <a href="https://orcid.org/0000-0002-9455-9555" target="_blank" title="ORCID" style="margin-right:18px; color:#A6CE39;">
         <i class="fa-brands fa-orcid"></i>
       </a>
-      <a href="mailto:siva.viknesh@sci.utah.edu" title="Email" style="margin-right:18px; color:#EA4335;">
+      <a href="mailto:sivaviknesh14@gmail.com, siva.viknesh@sci.utah.edu" title="Email" style="margin-right:18px; color:#EA4335;">
         <i class="fas fa-envelope"></i>
       </a>
       <a href="https://sci.utah.edu/people/siva-viknesh/" target="_blank" title="School Website" style="margin-right:18px; color:#1a73e8;">
