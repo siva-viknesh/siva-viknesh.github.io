@@ -9,11 +9,14 @@ redirect_from:
 ---
 
 <!-- Header: Photo on Left, Details on Right -->
+<!-- Header: Photo on Left, Details on Right -->
 <div style="display:flex; align-items:center; gap:30px; margin-bottom:20px; flex-wrap:wrap;">
 
   <!-- Profile Photo -->
   <div style="flex-shrink:0;">
-    <img src="https://github.com/siva-viknesh/siva-viknesh.github.io/tree/master/images/pic_0.jpg" alt="Siva Viknesh Profile Photo" style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
+    <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_0.jpg" 
+         alt="Siva Viknesh Profile Photo" 
+         style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid #ccc; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
   </div>
 
   <!-- Details -->
