@@ -27,26 +27,26 @@ redirect_from:
     <p style="margin:5px 0;">Passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that integrate physics models and data-driven methods to solve spatio-temporal flow problems, while being both scientifically rigorous and practically useful.</p>
 
     <!-- Social Links with Icons -->
-    <p style="margin-top:15px; font-size:1.3em; padding-left:100px;">
-      <a href="https://www.linkedin.com/in/siva-viknesh/" target="_blank" title="LinkedIn" style="margin-right:18px; color:#0077b5;">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a href="https://github.com/siva-viknesh" target="_blank" title="GitHub" style="margin-right:18px; color:#333;">
-        <i class="fab fa-github"></i>
-      </a>
-      <a href="https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en" target="_blank" title="Google Scholar" style="margin-right:18px; color:#DB4437;">
-        <i class="fab fa-google"></i>
-      </a>
-      <a href="https://orcid.org/0000-0002-9455-9555" target="_blank" title="ORCID" style="margin-right:18px; color:#A6CE39;">
-        <i class="fa-brands fa-orcid"></i>
-      </a>
-      <a href="mailto:sivaviknesh14@gmail.com, siva.viknesh@sci.utah.edu" title="Email" style="margin-right:18px; color:#EA4335;">
-        <i class="fas fa-envelope"></i>
-      </a>
-      <a href="https://sci.utah.edu/people/siva-viknesh/" target="_blank" title="School Website" style="margin-right:18px; color:#1a73e8;">
-        <i class="fas fa-globe"></i>
-      </a>
-    </p>
+<p style="margin-top:15px; font-size:1.3em; padding-left:100px;">
+  <a href="https://www.linkedin.com/in/siva-viknesh/" target="_blank" title="LinkedIn" style="margin-right:18px; color:#0077b5;">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="https://github.com/siva-viknesh" target="_blank" title="GitHub" style="margin-right:18px; color:#333;">
+    <i class="fab fa-github"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en" target="_blank" title="Google Scholar" style="margin-right:18px; color:#DB4437;">
+    <i class="fab fa-google"></i>
+  </a>
+  <a href="https://orcid.org/0000-0002-9455-9555" target="_blank" title="ORCID" style="margin-right:18px; color:#A6CE39;">
+    <i class="fa-brands fa-orcid"></i>
+  </a>
+  <a href="mailto:sivaviknesh14@gmail.com, siva.viknesh@sci.utah.edu" title="Email" style="margin-right:18px; color:#EA4335;">
+    <i class="fas fa-envelope"></i>
+  </a>
+  <a href="https://sci.utah.edu/people/siva-viknesh/" target="_blank" title="School Website" style="margin-right:18px; color:#1a73e8;">
+    <i class="fas fa-globe"></i>
+  </a>
+</p>
   </div>
 
 </div>
