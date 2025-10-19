@@ -17,7 +17,7 @@ redirect_from:
   <div style="flex-shrink:0;">
     <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_0.jpg" 
          alt="Siva Viknesh Profile Photo" 
-         style="width:200px; height:200px; border-radius:50%; object-fit:cover; border:4px solid #b30000; box-shadow:0 4px 10px rgba(0,0,0,0.25);">
+         style="width:160px; height:160px; border-radius:50%; object-fit:cover; border:4px solid #000; box-shadow:0 3px 8px rgba(0,0,0,0.25);">
   </div>
 
   <!-- Details -->
