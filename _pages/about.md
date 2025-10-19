@@ -1,36 +1,52 @@
 ---
 permalink: /
 excerpt: "About me"
-author_profile: False
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- Header: Photo on Left, Details on Right -->
-<!-- Header: Photo on Left, Details on Right -->
-<div style="display:flex; align-items:center; gap:30px; margin-bottom:20px; flex-wrap:wrap;">
+<!-- Font Awesome for Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<!-- Header: Photo Left, Details Right -->
+<div style="display:flex; align-items:center; gap:40px; margin-bottom:30px; flex-wrap:wrap;">
 
   <!-- Profile Photo -->
   <div style="flex-shrink:0;">
     <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_0.jpg" 
          alt="Siva Viknesh Profile Photo" 
-         style="width:150px; height:150px; border-radius:50%; object-fit:cover; border:3px solid #ccc; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+         style="width:200px; height:200px; border-radius:50%; object-fit:cover; border:4px solid #b30000; box-shadow:0 4px 10px rgba(0,0,0,0.25);">
   </div>
 
   <!-- Details -->
-  <div style="flex:1; min-width:250px;">
-    <h1>👋🏼 Hello, I'm Siva Viknesh!</h1>
-    <p>PhD Candidate, Scientific Computing & Imaging Institute & Mechanical Engineering, University of Utah</p>
-    <p style="margin-top:10px;">
-      <a href="https://www.linkedin.com/in/siva-viknesh/" target="_blank">LinkedIn</a> | 
-      <a href="https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en" target="_blank">Google Scholar</a> | 
-      <a href="https://orcid.org/my-orcid?orcid=0000-0002-9455-9555" target="_blank">ORCID</a> | 
-      <a href="https://github.com/siva-viknesh" target="_blank">GitHub</a>
+  <div style="flex:1; min-width:260px;">
+    <h1 style="margin-bottom:5px;">👋🏼 Hello, I'm <strong>Siva Viknesh</strong>!</h1>
+    <p style="margin:5px 0;">PhD Candidate, Scientific Computing & Imaging Institute & Mechanical Engineering, University of Utah</p>
+    <p style="margin:10px 0;">Salt Lake City, Utah, USA</p>
+
+    <!-- Social Links with Icons -->
+    <p style="margin-top:15px; font-size:1.3em;">
+      <a href="https://www.linkedin.com/in/siva-viknesh/" target="_blank" title="LinkedIn" style="margin-right:18px; color:#0077b5;">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="https://github.com/siva-viknesh" target="_blank" title="GitHub" style="margin-right:18px; color:#333;">
+        <i class="fab fa-github"></i>
+      </a>
+      <a href="https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en" target="_blank" title="Google Scholar" style="margin-right:18px; color:#4285F4;">
+        <i class="fa-solid fa-graduation-cap"></i>
+      </a>
+      <a href="https://orcid.org/0000-0002-9455-9555" target="_blank" title="ORCID" style="margin-right:18px; color:#A6CE39;">
+        <i class="fa-brands fa-orcid"></i>
+      </a>
     </p>
   </div>
 
 </div>
+
+<hr style="margin:30px 0;">
+
 
 <div class="about-section">
 
