@@ -14,7 +14,7 @@ redirect_from:
 <div style="display:flex; align-items:center; gap:35px; margin-bottom:30px; flex-wrap:wrap;">
     <!-- Profile Photo -->
   <div style="flex-shrink:0;">
-    <div style="width:160px; height:160px; border-radius:50%; overflow:hidden; border:3px solid #aaa; box-shadow:0 3px 8px rgba(0,0,0,0.15); display:flex; justify-content:center; align-items:center; background:#f9f9f9;">
+    <div style="width:180px; height:180px; border-radius:50%; overflow:hidden; border:3px solid #aaa; box-shadow:0 3px 8px rgba(0,0,0,0.15); display:flex; justify-content:center; align-items:center; background:#f9f9f9;">
       <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/pic_0.jpg" 
            alt="Siva Viknesh Profile Photo" 
            style="width:120%; height:auto; object-fit:cover; transform:scale(1.0); object-position:center;">
