@@ -105,6 +105,7 @@ redirect_from:
     </div>
     <div>
       <ul>
+        <li><a href="https://github.com/siva-viknesh/Differentiable-FEM-Solver"><strong>Differentiable FEM PDE Solvers</strong></a></li>
         <li><a href="https://github.com/siva-viknesh/Wildland_Fire_Dynamics"><strong>Wildfire Dynamics Transport Solver</strong></a></li>
         <li><a href="https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Spectral_Analysis"><strong>Spectral Analysis of Numerical Schemes</strong></a></li>
         <li><a href="https://github.com/siva-viknesh/Computational_Fluid_Mechanics/tree/main/Lid_Driven_Cavity_Flow"><strong>Lid-Driven Cavity Flow Solver</strong></a></li>
