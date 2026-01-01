@@ -13,13 +13,26 @@ redirect_from:
 <!-- Header: Photo Left, Details Right -->
 <div style="display:flex; align-items:center; gap:35px; margin-bottom:30px; flex-wrap:wrap;">
     <!-- Profile Photo -->
-  <div style="flex-shrink:0;">
-    <div style="width:180px; height:180px; border-radius:50%; overflow:hidden; border:3px solid #aaa; box-shadow:0 3px 8px rgba(0,0,0,0.15); display:flex; justify-content:center; align-items:center; background:#f9f9f9;">
-      <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/PIC_0.jpg" 
-           alt="Siva Viknesh Profile Photo" 
-           style=width:100%; height:100%; object-fit:cover; object-position:50% 30%; ">
-    </div>
+<div style="flex-shrink:0;">
+  <div style="
+      width:180px;
+      height:180px;
+      border-radius:50%;
+      overflow:hidden;
+      border:3px solid #aaa;
+      box-shadow:0 4px 10px rgba(0,0,0,0.2);
+      background:#f9f9f9;
+  ">
+    <img src="https://raw.githubusercontent.com/siva-viknesh/siva-viknesh.github.io/master/images/PIC_0.jpg"
+         alt="Siva Viknesh Profile Photo"
+         style="
+           width:100%;
+           height:100%;
+           object-fit:cover;
+           object-position:50% 30%;
+         ">
   </div>
+</div>
 
   <!-- Details -->
   <div style="flex:1; min-width:260px;">
