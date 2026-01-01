@@ -29,7 +29,7 @@ redirect_from:
            width:100%;
            height:100%;
            object-fit:cover;
-           object-position:60% 30%;
+           object-position:40% 30%;
            transform:scale(1.25);
          ">
   </div>
