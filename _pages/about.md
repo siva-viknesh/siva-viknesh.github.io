@@ -83,12 +83,12 @@ redirect_from:
   <h3>🤖 Scientific Machine Learning:</h3>
   <ul>
     <li><a href="https://www.arxiv.org/abs/2510.00233"><strong>DIfferentiable Autoencoding Neural Operator (DIANO)</strong></a> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers.</li>
-    <li><a href="https://doi.org/10.48550/arXiv.2410.16528"><strong>ADAM-SINDy</strong></a>, a differentiable optimization framework for identification of Parameterized Nonlinear Dynamical Systems. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Talk</strong></a>.</li>
+    <li><a href="https://doi.org/10.1103/dwkk-5g2h"><strong>ADAM-SINDy</strong></a>, a differentiable optimization framework for identification of Parameterized Nonlinear Dynamical Systems. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Talk</strong></a>.</li>
   </ul>
 
   <h3>🔥 Wildfire Dynamics:</h3>
   <ul>
-    <li>Identified two <a href="https://arxiv.org/abs/2411.04007v2"><strong>New Non-dimensional Numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models. Leverages <strong>stable and unstable manifolds (LCS)</strong> of wind topology to predict fire advection.</li>
+    <li>Identified two <a href="https://doi.org/10.1063/5.0268416"><strong>New Non-dimensional Numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models. Leverages <strong>stable and unstable manifolds (LCS)</strong> of wind topology to predict fire advection.</li>
   </ul>
 
   <h3>🛩️ Pitching Airfoil:</h3>
