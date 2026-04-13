@@ -82,18 +82,18 @@ redirect_from:
 
   <h3>🤖 Scientific Machine Learning:</h3>
   <ul>
-    <li><a href="https://www.arxiv.org/abs/2510.00233"><strong>DIfferentiable Autoencoding Neural Operator (DIANO)</strong></a> framework, enabling a coarse-grid interpretable latent space, by methodological integration of Autoencoders, Operator learning, and Differentiable PDE solvers.</li>
-    <li><a href="https://doi.org/10.1103/dwkk-5g2h"><strong>ADAM-SINDy</strong></a>, a differentiable optimization framework for identification of Parameterized Nonlinear Dynamical Systems. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Talk</strong></a>.</li>
+    <li><a href="https://www.arxiv.org/abs/2510.00233"><strong>DIfferentiable Autoencoding Neural Operator (DIANO)</strong></a>, unifying autoencoding, neural operators, and differentiable PDE solvers into an end-to-end differentiable ML architecture, enabling physically explainable latent representations and robust generalization across Reynolds numbers without compromising accuracy.    </li>
+    <li><a href="https://doi.org/10.1103/dwkk-5g2h"><strong>ADAM-SINDy</strong></a>, a differentiable <strong>non-convex</strong> optimization framework within the SINDy paradigm that identifies parameterized nonlinear dynamical systems directly from temporal data, jointly discovering sparse governing equations and unknown nonlinear parameters without prior specification. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Talk</strong></a>.</li>
   </ul>
 
   <h3>🔥 Wildfire Dynamics:</h3>
   <ul>
-    <li>Identified two <a href="https://doi.org/10.1063/5.0268416"><strong>New Non-dimensional Numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models. Leverages <strong>stable and unstable manifolds (LCS)</strong> of wind topology to predict fire advection.</li>
+    <li>Identified two <a href="https://doi.org/10.1063/5.0268416"><strong>new non-dimensional numbers</strong></a> governing the convection-diffusion-reaction wildfire combustion models. Established a correlation mapping between wind topology and wildfire propagation by leveraging <strong> Lagrangian Coherent Structures (LCS)</strong>  and <strong>flow manifolds</strong> of wind fields.</li>
   </ul>
 
   <h3>🛩️ Pitching Airfoil:</h3>
   <ul>
-    <li>Identified <a href="https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric"><strong>Upstream-convecting vortices</strong></a> (vortices advecting against the flow) on a pitching airfoil using Time-resolved PIV & Pressure measurements.</li>
+    <li>Identified <a href="https://pubs.aip.org/aip/pof/article/33/8/087115/1080453/Active-control-of-separated-flow-on-a-symmetric"><strong>Upstream-convecting vortices</strong></a> (vortices advecting against the flow) on a pitching airfoil using Time-resolved PIV & Pressure measurements. Projected aerodynamic coefficients onto a <strong>Bode plot</strong> to determine optimal oscillation frequencies for improved lift-to-drag performance.</li>
   </ul>
 
   <h3>🌪️ Flow Instabilities:</h3>
