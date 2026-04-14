@@ -71,6 +71,7 @@ redirect_from:
 
 <hr style="margin:30px 0;">
 
+
 <div class="about-section">
 
   <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging Institute and the Mechanical Engineering Department at The University of Utah, Salt Lake City, Utah, USA.</p>
