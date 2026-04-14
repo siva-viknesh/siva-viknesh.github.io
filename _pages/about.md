@@ -76,7 +76,7 @@ redirect_from:
 
   <p>👨🏻‍🎓 <strong>PhD Candidate</strong> in the Scientific Computing & Imaging Institute and the Mechanical Engineering Department at The University of Utah, Salt Lake City, Utah, USA.</p>
 
-  <p>🔬 <strong>Research Interests:</strong> Scientific Machine Learning, Computational Fluid Mechanics, Unsteady Aerodynamics, and Wildfire Dynamics.</p>
+  <p>🔬<strong>Research Interests:</strong> Scientific Machine Learning, Computational Fluid Mechanics, Unsteady Aerodynamics, and Wildfire Dynamics.</p>
 
   <p>🎓 <strong>Education:</strong> I hold an M.S. in Aerospace Engineering with Aerodynamics major from <strong>IIT Kanpur</strong>, India, where I focused on both Computational and Experimental Aerodynamics, and a B.E. in Aeronautical Engineering from <strong>Anna University</strong>, Tamil Nadu, India, where I developed a strong interest in Aerodynamics and solving PDEs.</p>
 
