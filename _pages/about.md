@@ -60,10 +60,6 @@ redirect_from:
       <a href="mailto:sivaviknesh14@gmail.com, siva.viknesh@sci.utah.edu" style="display:inline-flex; align-items:center; gap:5px; color:#EA4335; text-decoration:none;">
         <i class="fas fa-envelope"></i> <span style="color:#000; font-weight:bold;">Email</span>
       </a>
-      <span style="margin:0 10px; color:#999;">|</span>
-      <a href="https://sci.utah.edu/people/siva-viknesh/" target="_blank" style="display:inline-flex; align-items:center; gap:5px; color:#1a73e8; text-decoration:none;">
-        <i class="fas fa-globe"></i> <span style="color:#000; font-weight:bold;">SCI Institute</span>
-      </a>
     </p>
   </div>
 
