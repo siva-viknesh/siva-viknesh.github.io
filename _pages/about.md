@@ -40,24 +40,29 @@ redirect_from:
     <h1 style="margin-bottom:5px;">👋🏼 Hello, I'm <strong>Siva Viknesh</strong>!</h1>
     <p style="margin:5px 0;">Passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that synthesize both physics-based models and data-driven methods to solve complex spatio-temporal flows, extract interpretable representations, and remain both scientifically rigorous and practically useful.</p> 
     <!-- Social Links with Icons -->
-<p style="margin-top:15px; font-size:1.1em; padding-left:10px; display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <a href="https://www.linkedin.com/in/siva-viknesh/" target="_blank" title="LinkedIn" style="display:inline-flex; align-items:center; gap:6px; color:#0077b5; text-decoration:none;">
-    <i class="fab fa-linkedin"></i> LinkedIn
+<p style="margin-top:15px; font-size:0.85em; padding-left:10px; display:flex; flex-wrap:wrap; align-items:center; gap:0;">
+  <a href="https://www.linkedin.com/in/siva-viknesh/" target="_blank" style="display:inline-flex; align-items:center; gap:5px; color:#0077b5; text-decoration:none; font-weight:bold;">
+    <i class="fab fa-linkedin"></i> <span style="color:#000; font-weight:bold;">LinkedIn</span>
   </a>
-  <a href="https://github.com/siva-viknesh" target="_blank" title="GitHub" style="display:inline-flex; align-items:center; gap:6px; color:#333; text-decoration:none;">
-    <i class="fab fa-github"></i> GitHub
+  <span style="margin:0 10px; color:#999;">|</span>
+  <a href="https://github.com/siva-viknesh" target="_blank" style="display:inline-flex; align-items:center; gap:5px; color:#333; text-decoration:none;">
+    <i class="fab fa-github"></i> <span style="color:#000; font-weight:bold;">GitHub</span>
   </a>
-  <a href="https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en" target="_blank" title="Google Scholar" style="display:inline-flex; align-items:center; gap:6px; color:#DB4437; text-decoration:none;">
-    <i class="fab fa-google"></i> Google Scholar
+  <span style="margin:0 10px; color:#999;">|</span>
+  <a href="https://scholar.google.com/citations?user=fK58-PEAAAAJ&hl=en" target="_blank" style="display:inline-flex; align-items:center; gap:5px; color:#DB4437; text-decoration:none;">
+    <i class="fab fa-google"></i> <span style="color:#000; font-weight:bold;">Google Scholar</span>
   </a>
-  <a href="https://orcid.org/0000-0002-9455-9555" target="_blank" title="ORCID" style="display:inline-flex; align-items:center; gap:6px; color:#A6CE39; text-decoration:none;">
-    <i class="fa-brands fa-orcid"></i> ORCID
+  <span style="margin:0 10px; color:#999;">|</span>
+  <a href="https://orcid.org/0000-0002-9455-9555" target="_blank" style="display:inline-flex; align-items:center; gap:5px; color:#A6CE39; text-decoration:none;">
+    <i class="fa-brands fa-orcid"></i> <span style="color:#000; font-weight:bold;">ORCID</span>
   </a>
-  <a href="mailto:sivaviknesh14@gmail.com, siva.viknesh@sci.utah.edu" title="Email" style="display:inline-flex; align-items:center; gap:6px; color:#EA4335; text-decoration:none;">
-    <i class="fas fa-envelope"></i> Email
+  <span style="margin:0 10px; color:#999;">|</span>
+  <a href="mailto:sivaviknesh14@gmail.com, siva.viknesh@sci.utah.edu" style="display:inline-flex; align-items:center; gap:5px; color:#EA4335; text-decoration:none;">
+    <i class="fas fa-envelope"></i> <span style="color:#000; font-weight:bold;">Email</span>
   </a>
-  <a href="https://sci.utah.edu/people/siva-viknesh/" target="_blank" title="School Website" style="display:inline-flex; align-items:center; gap:6px; color:#1a73e8; text-decoration:none;">
-    <i class="fas fa-globe"></i> SCI Institute
+  <span style="margin:0 10px; color:#999;">|</span>
+  <a href="https://sci.utah.edu/people/siva-viknesh/" target="_blank" style="display:inline-flex; align-items:center; gap:5px; color:#1a73e8; text-decoration:none;">
+    <i class="fas fa-globe"></i> <span style="color:#000; font-weight:bold;">SCI Institute</span>
   </a>
 </p>
   </div>
