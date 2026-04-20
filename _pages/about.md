@@ -82,7 +82,7 @@ redirect_from:
 
   <h3>🤖 Scientific Machine Learning:</h3>
   <ul>
-    <li><a href="https://www.arxiv.org/abs/2510.00233"><strong>DIfferentiable Autoencoding Neural Operator (DIANO)</strong></a>, unifying autoencoding, neural operators, and differentiable PDE solvers into an end-to-end differentiable ML architecture, enabling physically explainable latent representations and robust generalization across Reynolds numbers.    </li>
+    <li><a href="https://www.arxiv.org/abs/2510.00233"><strong>DIfferentiable Autoencoding Neural Operator - DIANO</strong></a>, integrating autoencoders, neural operators, and PDE solvers into an end-to-end differentiable ML architecture, enabling physically explainable latent representations and robust generalization across Reynolds numbers.    </li>
     <li><a href="https://doi.org/10.1103/dwkk-5g2h"><strong>ADAM-SINDy</strong></a>, a differentiable <strong>non-convex</strong> SINDy optimization framework, identifies parameterized nonlinear dynamical systems and unknown nonlinear parameters directly from temporal data, without prior specification. Check out the <a href="https://youtu.be/4vTV2xLCOGQ" target="_blank"><strong>CRUNCH Talk</strong></a>.</li>
   </ul>
 
