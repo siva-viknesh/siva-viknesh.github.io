@@ -38,7 +38,7 @@ redirect_from:
   <!-- Details -->
   <div style="flex:1; min-width:260px;">
     <h1 style="margin-bottom:5px;">👋🏼 Hello, I'm <strong>Siva Viknesh</strong>!</h1>
-    <p style="margin:5px 0;">Passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that synthesize both physics-based models and data-driven methods to solve complex spatio-temporal flows, extract interpretable representations, and remain both scientifically rigorous and practically useful.</p> 
+    <p style="margin:5px 0;">Passionate about <strong>Fluid Mechanics</strong> and <strong>Scientific Machine Learning</strong>, developing <strong>Hybrid Physics–ML frameworks</strong> that synthesize both physical priors and neural architectures to solve complex spatio-temporal flows, enabling robust generalization and interpretability with both scientific rigor and practical usefulness.</p> 
     <!-- Social Links with Icons -->
     <p style="margin-top:15px; font-size:0.95em; padding-left:10px; display:flex; flex-wrap:wrap; align-items:center; gap:0;">
       <a href="https://www.linkedin.com/in/siva-viknesh/" target="_blank" style="display:inline-flex; align-items:center; gap:5px; color:#0077b5; text-decoration:none;">
