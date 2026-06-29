@@ -53,8 +53,8 @@ redirect_from:
         <i class="fab fa-google"></i> <span style="color:#000; font-weight:bold;">Google Scholar</span>
       </a>
       <span style="margin:0 10px; color:#999;">|</span>
-      <a href="https://orcid.org/0000-0002-9455-9555" target="_blank" style="display:inline-flex; align-items:center; gap:5px; color:#A6CE39; text-decoration:none;">
-        <i class="fa-brands fa-orcid"></i> <span style="color:#000; font-weight:bold;">ORCID</span>
+      <a href="https://siva-viknesh.github.io/pictures/" target="_blank" style="display:inline-flex; align-items:center; gap:5px; color:#555; text-decoration:none;">
+      <i class="fas fa-images"></i> <span style="color:#000; font-weight:bold;">Pictures</span>
       </a>
       <span style="margin:0 10px; color:#999;">|</span>
       <a href="mailto:sivaviknesh14@gmail.com, siva.viknesh@sci.utah.edu" style="display:inline-flex; align-items:center; gap:5px; color:#EA4335; text-decoration:none;">
