@@ -57,7 +57,7 @@ redirect_from:
       <i class="fas fa-images"></i> <span style="color:#000; font-weight:bold;">Pictures</span>
       </a>
       <span style="margin:0 10px; color:#999;">|</span>
-      <a href="mailto:sivaviknesh14@gmail.com, siva.viknesh@sci.utah.edu" style="display:inline-flex; align-items:center; gap:5px; color:#EA4335; text-decoration:none;">
+      <a href="mailto:sivaviknesh14@gmail.com" style="display:inline-flex; align-items:center; gap:5px; color:#EA4335; text-decoration:none;">
         <i class="fas fa-envelope"></i> <span style="color:#000; font-weight:bold;">Email</span>
       </a>
     </p>
